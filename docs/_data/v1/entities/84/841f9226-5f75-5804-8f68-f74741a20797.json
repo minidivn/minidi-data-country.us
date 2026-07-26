@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T20:20:38.269673400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T20:20:38.269673400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7241112",
+      "title": "WikiData Q-item: Q7241112",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7241112"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "18th presidential administration and cabinet of the USA (1869-1877)"
+    },
+    "descriptions": {
+      "en": "18th presidential administration and cabinet of the USA (1869-1877)"
+    },
+    "domain": "general",
+    "id": "Q7241112",
+    "labels": {
+      "en": "presidency of Ulysses S. Grant"
+    },
+    "properties": {
+      "end_time": "1877-03-04T00:00:00Z",
+      "start_time": "1869-03-04T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T20:20:38.269673400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T20:20:38.269673400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7440",
+      "title": "WikiData Q-item: Q7440",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7440"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Ruth Mary Rogan Benerito (January 12, 1916 – October 5, 2013) was an American physical chemist and inventor known for her impactful work related to the textile industry. She notably contributed to the development of wash-and-wear cotton fabrics using a technique called cross-linking, which strengthens the hydrogen bonds between cellulose molecules of cotton fibers. She held 55 patents."
+    },
+    "descriptions": {
+      "en": "American scientist and inventor (1916-2013)"
+    },
+    "domain": "general",
+    "id": "Q7440",
+    "labels": {
+      "en": "Ruth R. Benerito"
+    },
+    "properties": {
+      "birth_date": "1916-01-12T00:00:00Z",
+      "death_date": "2013-10-05T00:00:00Z",
+      "occupation": "inventor",
+      "summary": "Ruth Mary Rogan Benerito (January 12, 1916 – October 5, 2013) was an American physical chemist and inventor known for her impactful work related to the textile industry. She notably contributed to the development of wash-and-wear cotton fabrics using a technique called cross-linking, which strengthens the hydrogen bonds between cellulose molecules of cotton fibers. She held 55 patents."
+    },
+    "type": "person"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T20:20:38.269673400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T20:20:38.269673400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7532",
+      "title": "WikiData Q-item: Q7532",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7532"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Judith \"Judy\" L. Estrin (born 1954/1955) is an American entrepreneur, business executive, and philanthropist. She co-founded eight technology companies. Estrin worked with Vinton Cerf on the Transmission Control Protocol project at Stanford University in the 1970s. She was the chief technology officer of Cisco Systems from 1998 to 2000. Since 2007, Estrin has been the CEO of JLABS, LLC, a privately held company focused on furthering innovation in business, government, and nonprofit organizations."
+    },
+    "descriptions": {
+      "en": "American businesswoman"
+    },
+    "domain": "general",
+    "id": "Q7532",
+    "labels": {
+      "en": "Judith L. Estrin"
+    },
+    "properties": {
+      "birth_date": "1954-01-01T00:00:00Z",
+      "occupation": "engineer",
+      "summary": "Judith \"Judy\" L. Estrin (born 1954/1955) is an American entrepreneur, business executive, and philanthropist. She co-founded eight technology companies. Estrin worked with Vinton Cerf on the Transmission Control Protocol project at Stanford University in the 1970s. She was the chief technology officer of Cisco Systems from 1998 to 2000. Since 2007, Estrin has been the CEO of JLABS, LLC, a privately held company focused on furthering innovation in business, government, and nonprofit organizations."
+    },
+    "type": "person"
+  }
+}

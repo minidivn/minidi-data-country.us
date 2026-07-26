@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T20:20:38.269673400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T20:20:38.269673400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q110890864",
+      "title": "WikiData Q-item: Q110890864",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q110890864"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1946 exhibition at Museum of Modern Art"
+    },
+    "descriptions": {
+      "en": "1946 exhibition at Museum of Modern Art"
+    },
+    "domain": "general",
+    "id": "Q110890864",
+    "labels": {
+      "en": "Recent Acquisitions: 61 Lithographs by Toulouse-Lautrec and 31 Aquatints by Picasso for Buffon's \"Histoire Naturelle\""
+    },
+    "properties": {
+      "end_time": "1947-01-14T00:00:00Z",
+      "start_time": "1946-11-19T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

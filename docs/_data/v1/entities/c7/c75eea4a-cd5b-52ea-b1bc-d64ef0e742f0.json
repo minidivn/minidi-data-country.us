@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T20:20:38.269673400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T20:20:38.269673400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7509",
+      "title": "WikiData Q-item: Q7509",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7509"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Stephanie Louise Kwolek (; July 31, 1923 – June 18, 2014) was a Polish-American chemist known for inventing Kevlar (poly-paraphenylene terephthalamide). Her career at the DuPont company spanned more than 40 years.\nFor her discovery, Kwolek was awarded the DuPont company's Lavoisier Medal for outstanding technical achievement. Before 2021, she was the only female employee to have received that honor. In 1995 she became the fourth woman to be added to the National Inventors Hall of Fame.  Kwolek won numerous awards for her work in polymer chemistry, including the National Medal of Technology, the IRI Achievement Award and the Perkin Medal."
+    },
+    "descriptions": {
+      "en": "American chemist, inventor of Kevlar (1923–2014)"
+    },
+    "domain": "general",
+    "id": "Q7509",
+    "labels": {
+      "en": "Stephanie L. Kwolek"
+    },
+    "properties": {
+      "birth_date": "1923-07-31T00:00:00Z",
+      "death_date": "2014-06-18T00:00:00Z",
+      "occupation": "inventor",
+      "summary": "Stephanie Louise Kwolek (; July 31, 1923 – June 18, 2014) was a Polish-American chemist known for inventing Kevlar (poly-paraphenylene terephthalamide). Her career at the DuPont company spanned more than 40 years.\nFor her discovery, Kwolek was awarded the DuPont company's Lavoisier Medal for outstanding technical achievement. Before 2021, she was the only female employee to have received that honor. In 1995 she became the fourth woman to be added to the National Inventors Hall of Fame.  Kwolek won numerous awards for her work in polymer chemistry, including the National Medal of Technology, the IRI Achievement Award and the Perkin Medal."
+    },
+    "type": "person"
+  }
+}

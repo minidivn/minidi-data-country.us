@@ -8,7 +8,7 @@ export default {
   ],
   "defaultLanguage": "en",
   "title": "United States Knowledge Graph",
-  "subtitle": "Exploring 10,857 WikiData entities: history, geography, people & culture",
+  "subtitle": "Exploring 11,057 WikiData entities: history, geography, people & culture",
   "splashTitle": "🌍 MiniDi",
   "splashMessage": "Loading United States knowledge graph...",
   "mapCenter": [

@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T20:20:38.269673400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T20:20:38.269673400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q109619944",
+      "title": "WikiData Q-item: Q109619944",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q109619944"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1868 U.S. Senate trial"
+    },
+    "descriptions": {
+      "en": "1868 U.S. Senate trial"
+    },
+    "domain": "general",
+    "id": "Q109619944",
+    "labels": {
+      "en": "impeachment trial of Andrew Johnson"
+    },
+    "properties": {
+      "end_time": "1868-05-26T00:00:00Z",
+      "start_time": "1868-03-05T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T20:20:38.269673400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T20:20:38.269673400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7516",
+      "title": "WikiData Q-item: Q7516",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7516"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Jonathan Lee Miller (born 15 November 1972) is an English actor. He achieved early success for his portrayal of Simon \"Sick Boy\" Williamson in the dark comedy-drama film Trainspotting (1996) and as Dade Murphy in Hackers (1995), then earning further critical recognition for his performances in Afterglow (1997), Mansfield Park (1999), Mindhunters (2004), The Flying Scotsman (2006), Endgame (2009), and T2 Trainspotting (2017). For The Flying Scotsman he received a London Film Critics' Circle nomination for Actor of the Year. He was also part of the principal cast in the films Melinda and Melinda (2004), Dark Shadows (2012), and Byzantium (2013). He has appeared in several theatrical productions, most notably After Miss Julie and Frankenstein, the latter of which earned him an Olivier Award for Best Actor."
+    },
+    "descriptions": {
+      "en": "British actor"
+    },
+    "domain": "general",
+    "id": "Q7516",
+    "labels": {
+      "en": "Jonny Lee Miller"
+    },
+    "properties": {
+      "birth_date": "1972-11-15T00:00:00Z",
+      "occupation": "actor",
+      "summary": "Jonathan Lee Miller (born 15 November 1972) is an English actor. He achieved early success for his portrayal of Simon \"Sick Boy\" Williamson in the dark comedy-drama film Trainspotting (1996) and as Dade Murphy in Hackers (1995), then earning further critical recognition for his performances in Afterglow (1997), Mansfield Park (1999), Mindhunters (2004), The Flying Scotsman (2006), Endgame (2009), and T2 Trainspotting (2017). For The Flying Scotsman he received a London Film Critics' Circle nomination for Actor of the Year. He was also part of the principal cast in the films Melinda and Melinda (2004), Dark Shadows (2012), and Byzantium (2013). He has appeared in several theatrical productions, most notably After Miss Julie and Frankenstein, the latter of which earned him an Olivier Award for Best Actor."
+    },
+    "type": "person"
+  }
+}

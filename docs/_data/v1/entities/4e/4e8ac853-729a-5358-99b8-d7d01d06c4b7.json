@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T20:20:38.269673400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T20:20:38.269673400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7506",
+      "title": "WikiData Q-item: Q7506",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7506"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Joyce Jacobson Kaufman (June 21, 1929 - August 26, 2016) was an American chemist known for advancing the science of quantum chemistry and for clinical research on anaesthetics. Born to an immigrant family in the Bronx and educated at Johns Hopkins University, she worked at the Sorbonne and Martin Marietta before returning to Johns Hopkins. At Johns Hopkins School of Medicine, with residences and interns, Kaufman studied the effect of drugs such as narcotics on the central nervous system. \nShe was elected as a fellow of the American Institute of Chemists in 1965, and of the American Physical Society in 1966. Her other accolades include the 1973 Garvan Medical Award of the American Chemical Society and the Legion of Honour in 1969."
+    },
+    "descriptions": {
+      "en": "Jewish American chemist (1929–2016)"
+    },
+    "domain": "general",
+    "id": "Q7506",
+    "labels": {
+      "en": "Joyce Jacobson Kaufman"
+    },
+    "properties": {
+      "birth_date": "1929-06-21T00:00:00Z",
+      "death_date": "2016-08-26T00:00:00Z",
+      "occupation": "physicist",
+      "summary": "Joyce Jacobson Kaufman (June 21, 1929 - August 26, 2016) was an American chemist known for advancing the science of quantum chemistry and for clinical research on anaesthetics. Born to an immigrant family in the Bronx and educated at Johns Hopkins University, she worked at the Sorbonne and Martin Marietta before returning to Johns Hopkins. At Johns Hopkins School of Medicine, with residences and interns, Kaufman studied the effect of drugs such as narcotics on the central nervous system. \nShe was elected as a fellow of the American Institute of Chemists in 1965, and of the American Physical Society in 1966. Her other accolades include the 1973 Garvan Medical Award of the American Chemical Society and the Legion of Honour in 1969."
+    },
+    "type": "person"
+  }
+}

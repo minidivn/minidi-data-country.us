@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T20:20:38.269673400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T20:20:38.269673400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7468",
+      "title": "WikiData Q-item: Q7468",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7468"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Catherine Grace \"Cady\" Coleman (born December 14, 1960) is an American chemist, engineer, former United States Air Force colonel, and retired NASA astronaut. She is a veteran of two Space Shuttle missions, and departed the International Space Station on May 23, 2011, as a crew member of Expedition 27 after logging 159 days in space."
+    },
+    "descriptions": {
+      "en": "American astronaut, chemist, United States Air Force officer"
+    },
+    "domain": "general",
+    "id": "Q7468",
+    "labels": {
+      "en": "Catherine Coleman"
+    },
+    "properties": {
+      "birth_date": "1960-12-14T00:00:00Z",
+      "occupation": "engineer",
+      "summary": "Catherine Grace \"Cady\" Coleman (born December 14, 1960) is an American chemist, engineer, former United States Air Force colonel, and retired NASA astronaut. She is a veteran of two Space Shuttle missions, and departed the International Space Station on May 23, 2011, as a crew member of Expedition 27 after logging 159 days in space."
+    },
+    "type": "person"
+  }
+}

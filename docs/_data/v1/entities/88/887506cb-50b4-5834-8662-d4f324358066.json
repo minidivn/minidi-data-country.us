@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T20:20:38.269673400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T20:20:38.269673400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7472",
+      "title": "WikiData Q-item: Q7472",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7472"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Joanna Sigfred Fowler (born August 9, 1942) is a scientist emeritus at the U.S. Department of Energy's Brookhaven National Laboratory in New York.  She served as professor of psychiatry at Mount Sinai School of Medicine and director of Brookhaven's Radiotracer Chemistry, Instrumentation and Biological Imaging Program. Fowler studied the effect of disease, drugs, and aging on the human brain and radiotracers in brain chemistry. She has received many awards for her pioneering work, including the National Medal of Science."
+    },
+    "descriptions": {
+      "en": "American chemist"
+    },
+    "domain": "general",
+    "id": "Q7472",
+    "labels": {
+      "en": "Joanna S. Fowler"
+    },
+    "properties": {
+      "birth_date": "1942-08-09T00:00:00Z",
+      "occupation": "chemist",
+      "summary": "Joanna Sigfred Fowler (born August 9, 1942) is a scientist emeritus at the U.S. Department of Energy's Brookhaven National Laboratory in New York.  She served as professor of psychiatry at Mount Sinai School of Medicine and director of Brookhaven's Radiotracer Chemistry, Instrumentation and Biological Imaging Program. Fowler studied the effect of disease, drugs, and aging on the human brain and radiotracers in brain chemistry. She has received many awards for her pioneering work, including the National Medal of Science."
+    },
+    "type": "person"
+  }
+}

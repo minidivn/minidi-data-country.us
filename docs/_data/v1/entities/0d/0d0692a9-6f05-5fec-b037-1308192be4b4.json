@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T20:20:38.269673400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T20:20:38.269673400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7541",
+      "title": "WikiData Q-item: Q7541",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7541"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Sally Jean Floyd (May 20, 1950 – August 25, 2019) was an American computer scientist known for her work on computer networking. Formerly associated with the International Computer Science Institute in Berkeley, California, she retired in 2009 and died in August 2019.  She is best known for her work on Internet congestion control, and was in 2007 one of the top-ten most cited researchers in computer science.\n\n"
+    },
+    "descriptions": {
+      "en": "American computer scientist (1950-2019)"
+    },
+    "domain": "general",
+    "id": "Q7541",
+    "labels": {
+      "en": "Sally Floyd"
+    },
+    "properties": {
+      "birth_date": "1950-05-20T00:00:00Z",
+      "death_date": "2019-08-25T00:00:00Z",
+      "occupation": "computer scientist",
+      "summary": "Sally Jean Floyd (May 20, 1950 – August 25, 2019) was an American computer scientist known for her work on computer networking. Formerly associated with the International Computer Science Institute in Berkeley, California, she retired in 2009 and died in August 2019.  She is best known for her work on Internet congestion control, and was in 2007 one of the top-ten most cited researchers in computer science.\n\n"
+    },
+    "type": "person"
+  }
+}

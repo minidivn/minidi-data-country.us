@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T20:20:38.269673400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T20:20:38.269673400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7534",
+      "title": "WikiData Q-item: Q7534",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7534"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Elizabeth Jocelyn \"Jake\" Feinler (born March 2, 1931) is an American information scientist. From 1972 until 1989 she was director of the Network Information Systems Center at the Stanford Research Institute (SRI International). Her group operated the Network Information Center (NIC) for the ARPANET as it evolved into the Defense Data Network (DDN) and the Internet. While at NIC, she and her team created the Host Naming Registry (WHOIS) and the top-level domain naming convention (.com, .gov, .org… etc) that the internet still uses today. Before her inventions the internet would have not been able to scale and grow as much as it has today. Without her contributions users would have constantly use their IP address to get to their desired website, with the top-level naming convention it has made the navigation much more user friendly and convenient."
+    },
+    "descriptions": {
+      "en": "American information scientist (born 1931)"
+    },
+    "domain": "general",
+    "id": "Q7534",
+    "labels": {
+      "en": "Elizabeth J. Feinler"
+    },
+    "properties": {
+      "birth_date": "1931-03-02T00:00:00Z",
+      "occupation": "computer scientist",
+      "summary": "Elizabeth Jocelyn \"Jake\" Feinler (born March 2, 1931) is an American information scientist. From 1972 until 1989 she was director of the Network Information Systems Center at the Stanford Research Institute (SRI International). Her group operated the Network Information Center (NIC) for the ARPANET as it evolved into the Defense Data Network (DDN) and the Internet. While at NIC, she and her team created the Host Naming Registry (WHOIS) and the top-level domain naming convention (.com, .gov, .org… etc) that the internet still uses today. Before her inventions the internet would have not been able to scale and grow as much as it has today. Without her contributions users would have constantly use their IP address to get to their desired website, with the top-level naming convention it has made the navigation much more user friendly and convenient."
+    },
+    "type": "person"
+  }
+}

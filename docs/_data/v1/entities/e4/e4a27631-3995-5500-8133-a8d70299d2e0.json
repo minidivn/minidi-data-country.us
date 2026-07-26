@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "created_at": "2026-07-26T20:20:38.269673400+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.us",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "updated_at": "2026-07-26T20:20:38.269673400+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "The Battle of the Severn was a skirmish fought on March 25, 1655, on the Severn River at Horn Point, across Spa Creek from Annapolis, Maryland, in what at that time was referred to as the Puritan settlement of \"Providence\", and what is now the neighborhood of Eastport. It was an extension of the conflicts that formed the English Civil War, pitting the forces of Puritan settlers against forces aligned with Lord Baltimore, then Lord Proprietor of the colony of Maryland. It has been suggested by Radmila May that this was the \"last battle of the English Civil War.\""
+      "markdown": "1655 battle"
     },
     "descriptions": {
       "en": "1655 battle"
@@ -36,8 +36,7 @@
       "en": "Battle of the Severn"
     },
     "properties": {
-      "point_in_time": "1655-03-25T00:00:00Z",
-      "summary": "The Battle of the Severn was a skirmish fought on March 25, 1655, on the Severn River at Horn Point, across Spa Creek from Annapolis, Maryland, in what at that time was referred to as the Puritan settlement of \"Providence\", and what is now the neighborhood of Eastport. It was an extension of the conflicts that formed the English Civil War, pitting the forces of Puritan settlers against forces aligned with Lord Baltimore, then Lord Proprietor of the colony of Maryland. It has been suggested by Radmila May that this was the \"last battle of the English Civil War.\""
+      "point_in_time": "1655-03-25T00:00:00Z"
     },
     "type": "event"
   }
