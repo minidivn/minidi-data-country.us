@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T21:10:16.207517400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T21:10:16.207517400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q62",
+      "title": "WikiData Q-item: Q62",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q62"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "San Francisco, officially the City and County of San Francisco, is the fourth-most populous city in California and the 17th-most populous in the United States, with a population of 826,079 in 2025. Among U.S. cities with a population of 200,000 or more, San Francisco is ranked first by per capita income, third by population density, and sixth by aggregate income as of 2024. Some 4.6 million residents live in the city's metropolitan statistical area, which is the 13th-largest in the United States. Around 9.2 million live in the San Jose–San Francisco–Oakland combined statistical area, the fifth-largest in the United States. Prior to European settlement, San Francisco was inhabited by the Yelamu Ohlone. On June 29, 1776, settlers from New Spain established the Presidio of San Francisco at the Golden Gate, and the Mission San Francisco de Asís a few miles away, both named for Francis of Assisi."
+    },
+    "descriptions": {
+      "en": "consolidated city and county in California, United States"
+    },
+    "domain": "general",
+    "id": "Q62",
+    "labels": {
+      "en": "San Francisco"
+    },
+    "properties": {
+      "coordinates": "Point(-122.419444444 37.775)",
+      "summary": "San Francisco, officially the City and County of San Francisco, is the fourth-most populous city in California and the 17th-most populous in the United States, with a population of 826,079 in 2025. Among U.S. cities with a population of 200,000 or more, San Francisco is ranked first by per capita income, third by population density, and sixth by aggregate income as of 2024. Some 4.6 million residents live in the city's metropolitan statistical area, which is the 13th-largest in the United States. Around 9.2 million live in the San Jose–San Francisco–Oakland combined statistical area, the fifth-largest in the United States. Prior to European settlement, San Francisco was inhabited by the Yelamu Ohlone. On June 29, 1776, settlers from New Spain established the Presidio of San Francisco at the Golden Gate, and the Mission San Francisco de Asís a few miles away, both named for Francis of Assisi."
+    },
+    "type": "place"
+  }
+}

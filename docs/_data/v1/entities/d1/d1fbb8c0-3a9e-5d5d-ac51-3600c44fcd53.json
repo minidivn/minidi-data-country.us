@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T21:10:16.207517400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T21:10:16.207517400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q100",
+      "title": "WikiData Q-item: Q100",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q100"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Boston ( BAW-stən, ) is the capital and most populous city of the U.S. state of Massachusetts. It serves as a cultural and financial center of New England, a region of the Northeastern United States. Boston has an area of 48.4 square miles (125 km2) and a population of 675,647 as of the 2020 census, making it the third-most populous city in the Northeastern United States after New York City and Philadelphia. The larger Greater Boston metropolitan statistical area had a population of 4.9 million in 2023, making it the largest metropolis in New England and the eleventh-largest in the United States. Boston was founded on Shawmut Peninsula in 1630 by English Puritan settlers, who named the city after the market town of Boston, Lincolnshire, England."
+    },
+    "descriptions": {
+      "en": "capital city of the U.S. state of Massachusetts and seat of Suffolk County"
+    },
+    "domain": "general",
+    "id": "Q100",
+    "labels": {
+      "en": "Boston"
+    },
+    "properties": {
+      "coordinates": "Point(-71.057777777 42.360277777)",
+      "summary": "Boston ( BAW-stən, ) is the capital and most populous city of the U.S. state of Massachusetts. It serves as a cultural and financial center of New England, a region of the Northeastern United States. Boston has an area of 48.4 square miles (125 km2) and a population of 675,647 as of the 2020 census, making it the third-most populous city in the Northeastern United States after New York City and Philadelphia. The larger Greater Boston metropolitan statistical area had a population of 4.9 million in 2023, making it the largest metropolis in New England and the eleventh-largest in the United States. Boston was founded on Shawmut Peninsula in 1630 by English Puritan settlers, who named the city after the market town of Boston, Lincolnshire, England."
+    },
+    "type": "place"
+  }
+}
