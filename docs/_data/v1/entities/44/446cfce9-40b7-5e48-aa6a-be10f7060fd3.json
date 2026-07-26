@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:10:16.207517400+00:00",
+    "created_at": "2026-07-26T21:28:10.104921100+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.us",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:10:16.207517400+00:00",
+    "updated_at": "2026-07-26T21:28:10.104921100+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "Helen Miriam Berman is an American chemist who is a Distinguished Professor of Quantitative and Computational Biology at the USC Dornsife College of Letters, Arts and Sciences. She is also a Board of Governors Professor Emerita of Chemistry and Chemical Biology at Rutgers University and a former director of the RCSB Protein Data Bank (one of the member organizations of the Worldwide Protein Data Bank). A structural biologist, her work includes structural analysis of protein-nucleic acid complexes, and the role of water in molecular interactions. She is also the founder and director of the Nucleic Acid Database, and led the Protein Structure Initiative Structural Genomics Knowledgebase. She is a Fellow of the American Academy of Arts and Sciences and Fellow of the National Academy of Sciences."
+      "markdown": "American chemist"
     },
     "descriptions": {
       "en": "American chemist"
@@ -37,8 +37,7 @@
     },
     "properties": {
       "birth_date": "1943-01-01T00:00:00Z",
-      "occupation": "chemist",
-      "summary": "Helen Miriam Berman is an American chemist who is a Distinguished Professor of Quantitative and Computational Biology at the USC Dornsife College of Letters, Arts and Sciences. She is also a Board of Governors Professor Emerita of Chemistry and Chemical Biology at Rutgers University and a former director of the RCSB Protein Data Bank (one of the member organizations of the Worldwide Protein Data Bank). A structural biologist, her work includes structural analysis of protein-nucleic acid complexes, and the role of water in molecular interactions. She is also the founder and director of the Nucleic Acid Database, and led the Protein Structure Initiative Structural Genomics Knowledgebase. She is a Fellow of the American Academy of Arts and Sciences and Fellow of the National Academy of Sciences."
+      "occupation": "chemist"
     },
     "type": "person"
   }

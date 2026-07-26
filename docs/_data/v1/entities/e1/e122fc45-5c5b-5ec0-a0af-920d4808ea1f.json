@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:10:16.207517400+00:00",
+    "created_at": "2026-07-26T21:28:10.104921100+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.us",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:10:16.207517400+00:00",
+    "updated_at": "2026-07-26T21:28:10.104921100+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "Peyton Williams Manning (born March 24, 1976) is an American former professional football player. He was a quarterback in the National Football League (NFL) for 18 seasons. Nicknamed \"the Sheriff\", he spent 14 seasons with the Indianapolis Colts and four with the Denver Broncos. Manning is considered one of the greatest quarterbacks of all time. A member of the Manning football dynasty, he is the second son of former NFL quarterback Archie Manning, older brother of former NFL quarterback Eli Manning, and uncle of Texas Longhorns quarterback Arch Manning. He played college football for the Tennessee Volunteers, winning the Maxwell, Davey O'Brien, and Johnny Unitas Golden Arm awards in 1997 en route to victory in the 1997 SEC Championship Game. Manning was selected first overall in the 1998 NFL draft by the Colts and served as their starting quarterback from 1998 to 2010."
+      "markdown": "American football player (born 1976)"
     },
     "descriptions": {
       "en": "American football player (born 1976)"
@@ -37,8 +37,7 @@
     },
     "properties": {
       "birth_date": "1976-03-24T00:00:00Z",
-      "occupation": "voice actor",
-      "summary": "Peyton Williams Manning (born March 24, 1976) is an American former professional football player. He was a quarterback in the National Football League (NFL) for 18 seasons. Nicknamed \"the Sheriff\", he spent 14 seasons with the Indianapolis Colts and four with the Denver Broncos. Manning is considered one of the greatest quarterbacks of all time. A member of the Manning football dynasty, he is the second son of former NFL quarterback Archie Manning, older brother of former NFL quarterback Eli Manning, and uncle of Texas Longhorns quarterback Arch Manning. He played college football for the Tennessee Volunteers, winning the Maxwell, Davey O'Brien, and Johnny Unitas Golden Arm awards in 1997 en route to victory in the 1997 SEC Championship Game. Manning was selected first overall in the 1998 NFL draft by the Colts and served as their starting quarterback from 1998 to 2010."
+      "occupation": "voice actor"
     },
     "type": "person"
   }

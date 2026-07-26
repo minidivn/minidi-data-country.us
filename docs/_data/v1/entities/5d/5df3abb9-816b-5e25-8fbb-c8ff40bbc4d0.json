@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:10:16.207517400+00:00",
+    "created_at": "2026-07-26T21:28:10.104921100+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.us",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:10:16.207517400+00:00",
+    "updated_at": "2026-07-26T21:28:10.104921100+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "Allene Rosalind Jeanes (July 19, 1906 – December 11, 1995) was an American chemist whose pioneering work significantly impacted carbohydrate chemistry. Born in 1906 in Texas, Jeanes' notable contributions include the development of Dextran, a lifesaving blood plasma substitute used in the Korean and Vietnam wars, and xanthan gum, a polysaccharide commonly used in the food, cosmetics, and pharmaceutical industries. Jeanes' innovations have had a lasting influence on medical treatments and everyday consumer products, highlighting her role as a key figure in applied carbohydrate science. Her achievements earned her numerous accolades, including being the first woman to receive the Distinguished Service Award from the U.S. Department of Agriculture."
+      "markdown": "American chemical researcher (1906–1995)"
     },
     "descriptions": {
       "en": "American chemical researcher (1906–1995)"
@@ -38,8 +38,7 @@
     "properties": {
       "birth_date": "1906-07-19T00:00:00Z",
       "death_date": "1995-12-11T00:00:00Z",
-      "occupation": "chemist",
-      "summary": "Allene Rosalind Jeanes (July 19, 1906 – December 11, 1995) was an American chemist whose pioneering work significantly impacted carbohydrate chemistry. Born in 1906 in Texas, Jeanes' notable contributions include the development of Dextran, a lifesaving blood plasma substitute used in the Korean and Vietnam wars, and xanthan gum, a polysaccharide commonly used in the food, cosmetics, and pharmaceutical industries. Jeanes' innovations have had a lasting influence on medical treatments and everyday consumer products, highlighting her role as a key figure in applied carbohydrate science. Her achievements earned her numerous accolades, including being the first woman to receive the Distinguished Service Award from the U.S. Department of Agriculture."
+      "occupation": "chemist"
     },
     "type": "person"
   }

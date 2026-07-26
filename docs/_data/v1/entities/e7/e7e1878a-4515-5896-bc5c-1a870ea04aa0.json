@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:10:16.207517400+00:00",
+    "created_at": "2026-07-26T21:28:10.104921100+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.us",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:10:16.207517400+00:00",
+    "updated_at": "2026-07-26T21:28:10.104921100+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "country located primarily in North America"
+      "markdown": "The United States of America (USA), also known as the United States (U.S.) or America, is a country primarily located in North America. It is a federal republic consisting of 50 states and a federal capital district, Washington, D.C. The 48 contiguous states border Canada to the north and Mexico to the south, with the semi-exclave of Alaska in the northwest and the archipelago of Hawaii in the Pacific Ocean. The United States also asserts sovereignty over five major island territories and various uninhabited islands in Oceania and the Caribbean. It is a megadiverse country, with the world's third-largest land area and third-largest population, exceeding 341 million. Paleo-Indians first migrated from North Asia to North America at least 15,000 years ago, and formed various civilizations. European discovery of the Americas began in 1492, and British colonization followed with the 1607 settlement of Virginia, the first of the Thirteen Colonies."
     },
     "descriptions": {
       "en": "country located primarily in North America"
@@ -36,7 +36,8 @@
       "en": "United States"
     },
     "properties": {
-      "coordinates": "Point(-98.5795 39.828175)"
+      "coordinates": "Point(-98.5795 39.828175)",
+      "summary": "The United States of America (USA), also known as the United States (U.S.) or America, is a country primarily located in North America. It is a federal republic consisting of 50 states and a federal capital district, Washington, D.C. The 48 contiguous states border Canada to the north and Mexico to the south, with the semi-exclave of Alaska in the northwest and the archipelago of Hawaii in the Pacific Ocean. The United States also asserts sovereignty over five major island territories and various uninhabited islands in Oceania and the Caribbean. It is a megadiverse country, with the world's third-largest land area and third-largest population, exceeding 341 million. Paleo-Indians first migrated from North Asia to North America at least 15,000 years ago, and formed various civilizations. European discovery of the Americas began in 1492, and British colonization followed with the 1607 settlement of Virginia, the first of the Thirteen Colonies."
     },
     "type": "place"
   }

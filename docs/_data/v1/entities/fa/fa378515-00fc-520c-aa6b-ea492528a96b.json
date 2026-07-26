@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:10:16.207517400+00:00",
+    "created_at": "2026-07-26T21:28:10.104921100+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.us",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:10:16.207517400+00:00",
+    "updated_at": "2026-07-26T21:28:10.104921100+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "state of the United States of America"
+      "markdown": "Alabama ( , AL-ə-BAM-ə) is a state in the Southeastern and Deep Southern regions of the United States. It borders Tennessee to the north, Georgia to the east, Florida and the Gulf of Mexico to the south, and Mississippi to the west. Alabama is the 30th largest by area, and the 24th-most populous of the 50 U.S. states. Alabama is nicknamed the Yellowhammer State, after the state bird. Alabama is also known as the \"Heart of Dixie\" and the \"Cotton State\". The state has diverse geography, with the north dominated by the mountainous Tennessee Valley and the south by Mobile Bay. Alabama's capital is Montgomery, and its largest city by population and area is Huntsville. Its oldest city is Mobile, founded by French colonists (Alabama Creoles) in 1702 as the capital of French Louisiana. Greater Birmingham is Alabama's largest metropolitan area and its economic center."
     },
     "descriptions": {
       "en": "state of the United States of America"
@@ -36,7 +36,8 @@
       "en": "Alabama"
     },
     "properties": {
-      "coordinates": "Point(-86.7 32.7)"
+      "coordinates": "Point(-86.7 32.7)",
+      "summary": "Alabama ( , AL-ə-BAM-ə) is a state in the Southeastern and Deep Southern regions of the United States. It borders Tennessee to the north, Georgia to the east, Florida and the Gulf of Mexico to the south, and Mississippi to the west. Alabama is the 30th largest by area, and the 24th-most populous of the 50 U.S. states. Alabama is nicknamed the Yellowhammer State, after the state bird. Alabama is also known as the \"Heart of Dixie\" and the \"Cotton State\". The state has diverse geography, with the north dominated by the mountainous Tennessee Valley and the south by Mobile Bay. Alabama's capital is Montgomery, and its largest city by population and area is Huntsville. Its oldest city is Mobile, founded by French colonists (Alabama Creoles) in 1702 as the capital of French Louisiana. Greater Birmingham is Alabama's largest metropolitan area and its economic center."
     },
     "type": "place"
   }

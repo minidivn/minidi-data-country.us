@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:10:16.207517400+00:00",
+    "created_at": "2026-07-26T21:28:10.104921100+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.us",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:10:16.207517400+00:00",
+    "updated_at": "2026-07-26T21:28:10.104921100+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "Carmen Hermosillo (died August 10, 2008), also known as humdog, wolftone, Montserrat Snakeankle, Sparrowhawk Perhaps, was a community manager/research analyst, essayist, and poet. A contributor to 2GQ (now New Oregon Arts & Letters), FringeWare Review, wired, and Leonardo, Peter Ludlow's High Noon on the Electronic Frontier, and How to Mutate and Take Over the World, she was a participant in many online communities including early chat rooms and internet forums such as The WELL, BBSs, and later activities such as Second Life.\nIn 1994 she published a widely influential essay online, \"Pandora's Vox: On Community in Cyberspace\", in which she argued that the result of computer networks had led to, not a reduction in hierarchy, but actually a commodification of personality and a complex transfer of power and information to companies.\n\n"
+      "markdown": "Community manager, essayist, poet, research analyst"
     },
     "descriptions": {
       "en": "Community manager, essayist, poet, research analyst"
@@ -38,8 +38,7 @@
     "properties": {
       "birth_date": "1940-01-01T00:00:00Z",
       "death_date": "2008-08-10T00:00:00Z",
-      "occupation": "writer",
-      "summary": "Carmen Hermosillo (died August 10, 2008), also known as humdog, wolftone, Montserrat Snakeankle, Sparrowhawk Perhaps, was a community manager/research analyst, essayist, and poet. A contributor to 2GQ (now New Oregon Arts & Letters), FringeWare Review, wired, and Leonardo, Peter Ludlow's High Noon on the Electronic Frontier, and How to Mutate and Take Over the World, she was a participant in many online communities including early chat rooms and internet forums such as The WELL, BBSs, and later activities such as Second Life.\nIn 1994 she published a widely influential essay online, \"Pandora's Vox: On Community in Cyberspace\", in which she argued that the result of computer networks had led to, not a reduction in hierarchy, but actually a commodification of personality and a complex transfer of power and information to companies.\n\n"
+      "occupation": "writer"
     },
     "type": "person"
   }

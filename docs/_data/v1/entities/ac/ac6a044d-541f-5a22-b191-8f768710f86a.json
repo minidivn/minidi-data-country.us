@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:10:16.207517400+00:00",
+    "created_at": "2026-07-26T21:28:10.104921100+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.us",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:10:16.207517400+00:00",
+    "updated_at": "2026-07-26T21:28:10.104921100+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "Mildred Cohn (July 12, 1913 – October 12, 2009) was an American biochemist who furthered understanding of biochemical processes through her study of chemical reactions within animal cells. She was a pioneer in the use of nuclear magnetic resonance for studying enzyme reactions, particularly reactions of adenosine triphosphate (ATP).\nShe received the nation's highest science award, the National Medal of Science, in 1982, and was inducted into the National Women's Hall of Fame."
+      "markdown": "American biochemist (1913–2009)"
     },
     "descriptions": {
       "en": "American biochemist (1913–2009)"
@@ -38,8 +38,7 @@
     "properties": {
       "birth_date": "1913-07-12T00:00:00Z",
       "death_date": "2009-10-12T00:00:00Z",
-      "occupation": "engineer",
-      "summary": "Mildred Cohn (July 12, 1913 – October 12, 2009) was an American biochemist who furthered understanding of biochemical processes through her study of chemical reactions within animal cells. She was a pioneer in the use of nuclear magnetic resonance for studying enzyme reactions, particularly reactions of adenosine triphosphate (ATP).\nShe received the nation's highest science award, the National Medal of Science, in 1982, and was inducted into the National Women's Hall of Fame."
+      "occupation": "engineer"
     },
     "type": "person"
   }

@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:10:16.207517400+00:00",
+    "created_at": "2026-07-26T21:28:10.104921100+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.us",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:10:16.207517400+00:00",
+    "updated_at": "2026-07-26T21:28:10.104921100+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "Rachel Fuller Brown (November 23, 1898 – January 14, 1980) was an American chemist best known for her long-distance collaboration with microbiologist Elizabeth Lee Hazen in developing the first useful antifungal antibiotic, nystatin, while doing research for the Division of Laboratories and Research of the New York State Department of Health. Brown received her BA from Mount Holyoke College and her PhD from the University of Chicago.  She was inducted into the National Inventors Hall of Fame in 1994.\nNystatin, still produced today under various trade names, not only cures a variety of potentially devastating fungal infections, but has also been used to combat Dutch Elm disease in trees and to restore artwork damaged by water and mold."
+      "markdown": "American chemist (1898–1980)"
     },
     "descriptions": {
       "en": "American chemist (1898–1980)"
@@ -38,8 +38,7 @@
     "properties": {
       "birth_date": "1898-11-23T00:00:00Z",
       "death_date": "1980-01-14T00:00:00Z",
-      "occupation": "inventor",
-      "summary": "Rachel Fuller Brown (November 23, 1898 – January 14, 1980) was an American chemist best known for her long-distance collaboration with microbiologist Elizabeth Lee Hazen in developing the first useful antifungal antibiotic, nystatin, while doing research for the Division of Laboratories and Research of the New York State Department of Health. Brown received her BA from Mount Holyoke College and her PhD from the University of Chicago.  She was inducted into the National Inventors Hall of Fame in 1994.\nNystatin, still produced today under various trade names, not only cures a variety of potentially devastating fungal infections, but has also been used to combat Dutch Elm disease in trees and to restore artwork damaged by water and mold."
+      "occupation": "inventor"
     },
     "type": "person"
   }

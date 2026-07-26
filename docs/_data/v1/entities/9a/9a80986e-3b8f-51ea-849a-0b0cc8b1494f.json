@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:10:16.207517400+00:00",
+    "created_at": "2026-07-26T21:28:10.104921100+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.us",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:10:16.207517400+00:00",
+    "updated_at": "2026-07-26T21:28:10.104921100+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "Due to King Philip's War, tensions were rising along the East coast, and in 1677, a riot in Marblehead, Massachusetts transpired. After Native American troops devised a plan to intercept and capture fishing boats from the English, citizens of Massachusetts decided that it was time to fight back. This led to several English fishermen capturing two natives and bringing them to a port in Marblehead. The natives were then violently beaten to death by a group of angry women.\n\n"
+      "markdown": ""
     },
     "descriptions": {
       "en": ""
@@ -36,8 +36,7 @@
       "en": "Marblehead Riot of 1677"
     },
     "properties": {
-      "point_in_time": "1677-01-01T00:00:00Z",
-      "summary": "Due to King Philip's War, tensions were rising along the East coast, and in 1677, a riot in Marblehead, Massachusetts transpired. After Native American troops devised a plan to intercept and capture fishing boats from the English, citizens of Massachusetts decided that it was time to fight back. This led to several English fishermen capturing two natives and bringing them to a port in Marblehead. The natives were then violently beaten to death by a group of angry women.\n\n"
+      "point_in_time": "1677-01-01T00:00:00Z"
     },
     "type": "event"
   }

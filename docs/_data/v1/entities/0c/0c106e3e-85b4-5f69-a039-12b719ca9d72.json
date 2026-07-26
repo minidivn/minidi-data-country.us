@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:10:16.207517400+00:00",
+    "created_at": "2026-07-26T21:28:10.104921100+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.us",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:10:16.207517400+00:00",
+    "updated_at": "2026-07-26T21:28:10.104921100+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "Jeehiun Katherine Lee is an organic chemist and a professor in the department of chemistry at Rutgers University. She currently runs a research lab on the New Brunswick campus.\nAlthough she is an organic chemist by training, she has expanded her research field to biological chemistry, using mass spectrometry, computer modeling and other methods to characterize reactivity and catalysis."
+      "markdown": "organic chemist"
     },
     "descriptions": {
       "en": "organic chemist"
@@ -37,8 +37,7 @@
     },
     "properties": {
       "birth_date": "1968-01-01T00:00:00Z",
-      "occupation": "organic chemist",
-      "summary": "Jeehiun Katherine Lee is an organic chemist and a professor in the department of chemistry at Rutgers University. She currently runs a research lab on the New Brunswick campus.\nAlthough she is an organic chemist by training, she has expanded her research field to biological chemistry, using mass spectrometry, computer modeling and other methods to characterize reactivity and catalysis."
+      "occupation": "organic chemist"
     },
     "type": "person"
   }

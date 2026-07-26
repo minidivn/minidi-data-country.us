@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:10:16.207517400+00:00",
+    "created_at": "2026-07-26T21:28:10.104921100+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.us",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:10:16.207517400+00:00",
+    "updated_at": "2026-07-26T21:28:10.104921100+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "Mary Lowe Good (June 20, 1931 – November 20, 2019) was an American inorganic chemist who worked academically, in industrial research and in government. Good contributed to the understanding of catalysts such as ruthenium.\nGood served as the Under Secretary for Technology in the United States Department of Commerce from 1993 to 1997 under President Bill Clinton. She briefly served as Acting United States Secretary of Commerce from April 3, 1996, to April 12, 1996.\nGood received a number of significant awards including the Garvan–Olin Medal, the Othmer Gold Medal, the Priestley Medal, the Vannevar Bush Award, and the Heinz Award in Technology, the Economy, and Employment."
+      "markdown": "American chemist (1931–2019)"
     },
     "descriptions": {
       "en": "American chemist (1931–2019)"
@@ -38,8 +38,7 @@
     "properties": {
       "birth_date": "1931-06-20T00:00:00Z",
       "death_date": "2019-11-20T00:00:00Z",
-      "occupation": "chemist",
-      "summary": "Mary Lowe Good (June 20, 1931 – November 20, 2019) was an American inorganic chemist who worked academically, in industrial research and in government. Good contributed to the understanding of catalysts such as ruthenium.\nGood served as the Under Secretary for Technology in the United States Department of Commerce from 1993 to 1997 under President Bill Clinton. She briefly served as Acting United States Secretary of Commerce from April 3, 1996, to April 12, 1996.\nGood received a number of significant awards including the Garvan–Olin Medal, the Othmer Gold Medal, the Priestley Medal, the Vannevar Bush Award, and the Heinz Award in Technology, the Economy, and Employment."
+      "occupation": "chemist"
     },
     "type": "person"
   }

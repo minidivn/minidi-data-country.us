@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:10:16.207517400+00:00",
+    "created_at": "2026-07-26T21:28:10.104921100+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.us",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:10:16.207517400+00:00",
+    "updated_at": "2026-07-26T21:28:10.104921100+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "state of the United States of America"
+      "markdown": "California is a U.S. state in the Western United States that lies on the Pacific Coast. It borders Oregon to the north, and Nevada and Arizona to the east; it also shares an international border with the Mexican state of Baja California to the south. With over 39 million residents across an area of 163,696 square miles (423,970 km2), it is the largest U.S. state by population and third-largest by area. Prior to European colonization, California was one of the most culturally and linguistically diverse areas in pre-Columbian North America. European exploration in the 16th and 17th centuries led to the colonization by the Spanish Empire. The area became a part of Mexico in 1821, as a result of its successful war for independence. Following the U.S. conquest of California, part of the Mexican-American War, California was ceded to the United States in 1848."
     },
     "descriptions": {
       "en": "state of the United States of America"
@@ -36,7 +36,8 @@
       "en": "California"
     },
     "properties": {
-      "coordinates": "Point(-120.0 37.0)"
+      "coordinates": "Point(-120.0 37.0)",
+      "summary": "California is a U.S. state in the Western United States that lies on the Pacific Coast. It borders Oregon to the north, and Nevada and Arizona to the east; it also shares an international border with the Mexican state of Baja California to the south. With over 39 million residents across an area of 163,696 square miles (423,970 km2), it is the largest U.S. state by population and third-largest by area. Prior to European colonization, California was one of the most culturally and linguistically diverse areas in pre-Columbian North America. European exploration in the 16th and 17th centuries led to the colonization by the Spanish Empire. The area became a part of Mexico in 1821, as a result of its successful war for independence. Following the U.S. conquest of California, part of the Mexican-American War, California was ceded to the United States in 1848."
     },
     "type": "place"
   }
