@@ -1,0 +1,12 @@
+{
+  "repo": "minidi-data-country.us",
+  "name": "\\ United States\\",
+  "qid": "Q30",
+  "language": "en",
+  "crawl_settings": {
+    "limit": 100,
+    "rate_limit_ms": 200,
+    "max_edges_per_node": 50,
+    "link_traversal_depth": 2
+  }
+}

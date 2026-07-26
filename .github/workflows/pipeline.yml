@@ -1,0 +1,78 @@
+name: Minidi Ingestion Pipeline
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # Runs at 2:00 AM UTC daily
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Max crawl nodes limit'
+        required: false
+        default: '15'
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Data Repo
+        uses: actions/checkout@v4
+        with:
+          path: data-repo
+
+      - name: Checkout Spider Repo
+        uses: actions/checkout@v4
+        with:
+          repository: minidivn/minidi-spider
+          path: spider-repo
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Set up Rust
+        uses: actions-rust-lang/setup-rust-toolchain@v1
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 10
+
+      - name: Install Frontend Dependencies
+        run: |
+          pnpm install
+        working-directory: data-repo/src/ghpage
+
+      - name: Run Pipeline Ingestion
+        run: |
+          # Copy run configs and run execution pipeline
+          cd spider-repo
+          cp -r ../data-repo/.minidi/* configs/ 2>/dev/null || true
+          python scripts/run_pipeline.py --country us --limit ${{ github.event.inputs.limit || '15' }}
+          
+          # Copy outputs back to data-repo
+          cp -r ../Minidi/Data/minidi-data-country.us/* ../data-repo/
+        env:
+          CI: "true"
+
+      - name: Commit and Push Updates
+        run: |
+          cd data-repo
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          if ! git diff --cached --quiet; then
+            git commit -m "Automated build: Update dataset and recompile web assets"
+            git push origin main
+          else
+            echo "No data updates detected. Skipping push."
+          fi
