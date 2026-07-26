@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q17132271",
+      "title": "WikiData Q-item: Q17132271",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q17132271"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "World Heritage site in Greece"
+    },
+    "descriptions": {
+      "en": "World Heritage site in Greece"
+    },
+    "domain": "general",
+    "id": "Q17132271",
+    "labels": {
+      "en": "The Historic Centre (Chorá) with the Monastery of Saint-John the Theologian and the Cave of the Apocalypse on the Island of Pátmos"
+    },
+    "properties": {
+      "coordinates": "Point(26.55 37.3)"
+    },
+    "type": "place"
+  }
+}

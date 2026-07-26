@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q79478795",
+      "title": "WikiData Q-item: Q79478795",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q79478795"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1941 Exhibition at SFMOMA (then the San Francisco Museum of Art)"
+    },
+    "descriptions": {
+      "en": "1941 Exhibition at SFMOMA (then the San Francisco Museum of Art)"
+    },
+    "domain": "general",
+    "id": "Q79478795",
+    "labels": {
+      "en": "California Watercolor Society 21st Annual Exhibition: San Francisco Showing"
+    },
+    "properties": {
+      "end_time": "1941-12-09T00:00:00Z",
+      "start_time": "1941-11-18T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q537195",
+      "title": "WikiData Q-item: Q537195",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q537195"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "museum in Washington, D.C. about human rights in the People's Republic of China"
+    },
+    "descriptions": {
+      "en": "museum in Washington, D.C. about human rights in the People's Republic of China"
+    },
+    "domain": "general",
+    "id": "Q537195",
+    "labels": {
+      "en": "Laogai Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-77.0276 38.9067)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4983163",
+      "title": "WikiData Q-item: Q4983163",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4983163"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "wildlife exhibits, shooting gallery, texas rangers exhibit in Texas, United States"
+    },
+    "descriptions": {
+      "en": "wildlife exhibits, shooting gallery, texas rangers exhibit in Texas, United States"
+    },
+    "domain": "general",
+    "id": "Q4983163",
+    "labels": {
+      "en": "Buckhorn Saloon & Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-98.4897 29.4262)"
+    },
+    "type": "place"
+  }
+}

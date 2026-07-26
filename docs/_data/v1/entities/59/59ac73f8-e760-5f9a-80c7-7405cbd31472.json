@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q116452674",
+      "title": "WikiData Q-item: Q116452674",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q116452674"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1819 treaty between the United States and representatives of the Cherokee"
+    },
+    "descriptions": {
+      "en": "1819 treaty between the United States and representatives of the Cherokee"
+    },
+    "domain": "general",
+    "id": "Q116452674",
+    "labels": {
+      "en": "Treaty with the Cherokee, 1819"
+    },
+    "properties": {
+      "point_in_time": "1819-02-27T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

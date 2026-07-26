@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5256320",
+      "title": "WikiData Q-item: Q5256320",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5256320"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "building on the Michigan State University campus"
+    },
+    "descriptions": {
+      "en": "building on the Michigan State University campus"
+    },
+    "domain": "general",
+    "id": "Q5256320",
+    "labels": {
+      "en": "Demonstration Hall"
+    },
+    "properties": {
+      "coordinates": "Point(-84.4887 42.7296)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1967757",
+      "title": "WikiData Q-item: Q1967757",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1967757"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "research and Development Facility in Upton, United States"
+    },
+    "descriptions": {
+      "en": "research and Development Facility in Upton, United States"
+    },
+    "domain": "general",
+    "id": "Q1967757",
+    "labels": {
+      "en": "National Synchrotron Light Source"
+    },
+    "properties": {
+      "coordinates": "Point(-72.876388888 40.868055555)"
+    },
+    "type": "place"
+  }
+}

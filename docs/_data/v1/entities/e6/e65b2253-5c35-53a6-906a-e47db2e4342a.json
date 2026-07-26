@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4871874",
+      "title": "WikiData Q-item: Q4871874",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4871874"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "fort built by the British in 1814 in Spanish-Florida, US"
+    },
+    "descriptions": {
+      "en": "fort built by the British in 1814 in Spanish-Florida, US"
+    },
+    "domain": "general",
+    "id": "Q4871874",
+    "labels": {
+      "en": "Negro Fort"
+    },
+    "properties": {
+      "point_in_time": "1816-07-27T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q16854103",
+      "title": "WikiData Q-item: Q16854103",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q16854103"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Action of King William's War"
+    },
+    "descriptions": {
+      "en": "Action of King William's War"
+    },
+    "domain": "general",
+    "id": "Q16854103",
+    "labels": {
+      "en": "Raid on Groton"
+    },
+    "properties": {
+      "point_in_time": "1694-07-18T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

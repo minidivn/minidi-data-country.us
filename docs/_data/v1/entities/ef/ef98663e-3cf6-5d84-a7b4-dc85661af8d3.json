@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q220497",
+      "title": "WikiData Q-item: Q220497",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q220497"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1863 civil unrest over American Civil War conscription"
+    },
+    "descriptions": {
+      "en": "1863 civil unrest over American Civil War conscription"
+    },
+    "domain": "general",
+    "id": "Q220497",
+    "labels": {
+      "en": "New York City draft riots"
+    },
+    "properties": {
+      "point_in_time": "1863-07-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

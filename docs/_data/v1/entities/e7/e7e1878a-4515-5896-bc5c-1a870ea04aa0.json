@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q30",
+      "title": "WikiData Q-item: Q30",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q30"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "country located primarily in North America"
+    },
+    "descriptions": {
+      "en": "country located primarily in North America"
+    },
+    "domain": "general",
+    "id": "Q30",
+    "labels": {
+      "en": "United States of America"
+    },
+    "properties": {
+      "coordinates": "Point(-98.5795 39.828175)"
+    },
+    "type": "place"
+  }
+}

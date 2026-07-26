@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6705190",
+      "title": "WikiData Q-item: Q6705190",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6705190"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "place in Indiana listed on National Register of Historic Places"
+    },
+    "descriptions": {
+      "en": "place in Indiana listed on National Register of Historic Places"
+    },
+    "domain": "general",
+    "id": "Q6705190",
+    "labels": {
+      "en": "Lusk Home and Mill Site"
+    },
+    "properties": {
+      "coordinates": "Point(-87.185619 39.891486)"
+    },
+    "type": "place"
+  }
+}

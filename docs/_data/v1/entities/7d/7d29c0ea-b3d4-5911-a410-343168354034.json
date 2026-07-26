@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q2573610",
+      "title": "WikiData Q-item: Q2573610",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2573610"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1797-1799 legislative term"
+    },
+    "descriptions": {
+      "en": "1797-1799 legislative term"
+    },
+    "domain": "general",
+    "id": "Q2573610",
+    "labels": {
+      "en": "5th United States Congress"
+    },
+    "properties": {
+      "end_time": "1799-03-04T00:00:00Z",
+      "start_time": "1797-03-04T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q8963",
+      "title": "WikiData Q-item: Q8963",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q8963"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "German mathematician and astronomer (1571–1630)"
+    },
+    "descriptions": {
+      "en": "German mathematician and astronomer (1571–1630)"
+    },
+    "domain": "general",
+    "id": "Q8963",
+    "labels": {
+      "en": "Johannes Kepler"
+    },
+    "properties": {
+      "birth_date": "1572-01-06T00:00:00Z",
+      "death_date": "1630-11-15T00:00:00Z",
+      "occupation": "inventor"
+    },
+    "type": "person"
+  }
+}

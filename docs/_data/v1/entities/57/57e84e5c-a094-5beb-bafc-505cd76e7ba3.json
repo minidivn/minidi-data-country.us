@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5261459",
+      "title": "WikiData Q-item: Q5261459",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5261459"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "academic Building in Kansas, United States"
+    },
+    "descriptions": {
+      "en": "academic Building in Kansas, United States"
+    },
+    "domain": "general",
+    "id": "Q5261459",
+    "labels": {
+      "en": "Derby Dining Center"
+    },
+    "properties": {
+      "coordinates": "Point(-96.5777 39.1942)"
+    },
+    "type": "place"
+  }
+}

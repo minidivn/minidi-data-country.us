@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6392313",
+      "title": "WikiData Q-item: Q6392313",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6392313"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "museum in Bowling Green, Kentucky"
+    },
+    "descriptions": {
+      "en": "museum in Bowling Green, Kentucky"
+    },
+    "domain": "general",
+    "id": "Q6392313",
+    "labels": {
+      "en": "Kentucky Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-86.4543 36.9889)"
+    },
+    "type": "place"
+  }
+}

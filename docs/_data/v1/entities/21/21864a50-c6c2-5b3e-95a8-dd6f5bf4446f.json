@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q138170",
+      "title": "WikiData Q-item: Q138170",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q138170"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "UNESCO World Heritage Site in Tasmania, Australia"
+    },
+    "descriptions": {
+      "en": "UNESCO World Heritage Site in Tasmania, Australia"
+    },
+    "domain": "general",
+    "id": "Q138170",
+    "labels": {
+      "en": "Tasmanian Wilderness"
+    },
+    "properties": {
+      "coordinates": "Point(146.1729 -42.5957)"
+    },
+    "type": "place"
+  }
+}

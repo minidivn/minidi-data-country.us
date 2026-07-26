@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3078093",
+      "title": "WikiData Q-item: Q3078093",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3078093"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "human settlement in United States of America"
+    },
+    "descriptions": {
+      "en": "human settlement in United States of America"
+    },
+    "domain": "general",
+    "id": "Q3078093",
+    "labels": {
+      "en": "Fort Trempealeau"
+    },
+    "properties": {
+      "start_time": "1731-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

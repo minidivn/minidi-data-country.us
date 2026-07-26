@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q106890869",
+      "title": "WikiData Q-item: Q106890869",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q106890869"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "two photograph albums documenting a project to divert water from the Colorado River for irrigation of the Imperial Valley (held at UCLA)"
+    },
+    "descriptions": {
+      "en": "two photograph albums documenting a project to divert water from the Colorado River for irrigation of the Imperial Valley (held at UCLA)"
+    },
+    "domain": "general",
+    "id": "Q106890869",
+    "labels": {
+      "en": "Photograph albums documenting diversion of the Colorado River and creation of the Salton Sea"
+    },
+    "properties": {
+      "end_time": "1911-01-01T00:00:00Z",
+      "start_time": "1900-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

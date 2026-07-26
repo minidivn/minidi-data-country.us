@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5513",
+      "title": "WikiData Q-item: Q5513",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5513"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "freshwater rift lake in southern Siberia, Russia; the greatest mountain lake in Asia and the most voluminous freshwater lake in the world"
+    },
+    "descriptions": {
+      "en": "freshwater rift lake in southern Siberia, Russia; the greatest mountain lake in Asia and the most voluminous freshwater lake in the world"
+    },
+    "domain": "general",
+    "id": "Q5513",
+    "labels": {
+      "en": "Lake Baikal"
+    },
+    "properties": {
+      "coordinates": "Point(108.00472222 53.30277778)"
+    },
+    "type": "place"
+  }
+}

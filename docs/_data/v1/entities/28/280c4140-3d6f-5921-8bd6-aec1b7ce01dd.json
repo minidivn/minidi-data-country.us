@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1806491",
+      "title": "WikiData Q-item: Q1806491",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1806491"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "extra-legal colony and democracy founded in 1775 by pioneer colonels of the Transylvania Company"
+    },
+    "descriptions": {
+      "en": "extra-legal colony and democracy founded in 1775 by pioneer colonels of the Transylvania Company"
+    },
+    "domain": "general",
+    "id": "Q1806491",
+    "labels": {
+      "en": "Transylvania Colony"
+    },
+    "properties": {
+      "end_time": "1778-11-04T00:00:00Z",
+      "start_time": "1775-05-23T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

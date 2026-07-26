@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q31821016",
+      "title": "WikiData Q-item: Q31821016",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q31821016"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1854 battle during the Taiping Rebellion"
+    },
+    "descriptions": {
+      "en": "1854 battle during the Taiping Rebellion"
+    },
+    "domain": "general",
+    "id": "Q31821016",
+    "labels": {
+      "en": "Battle of Muddy Flat"
+    },
+    "properties": {
+      "end_time": "1854-04-04T00:00:00Z",
+      "start_time": "1854-04-03T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q2724996",
+      "title": "WikiData Q-item: Q2724996",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2724996"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "event in Latter Day Saint history after the death of Joseph Smith in 1844"
+    },
+    "descriptions": {
+      "en": "event in Latter Day Saint history after the death of Joseph Smith in 1844"
+    },
+    "domain": "general",
+    "id": "Q2724996",
+    "labels": {
+      "en": "LDS succession crisis"
+    },
+    "properties": {
+      "end_time": "1845-01-01T00:00:00Z",
+      "start_time": "1844-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

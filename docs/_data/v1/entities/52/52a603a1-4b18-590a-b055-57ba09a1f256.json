@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3377004",
+      "title": "WikiData Q-item: Q3377004",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3377004"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Multi-purpose basketball arena and recreation center at the University of Pittsburgh"
+    },
+    "descriptions": {
+      "en": "Multi-purpose basketball arena and recreation center at the University of Pittsburgh"
+    },
+    "domain": "general",
+    "id": "Q3377004",
+    "labels": {
+      "en": "Petersen Events Center"
+    },
+    "properties": {
+      "coordinates": "Point(-79.9623 40.4438)"
+    },
+    "type": "place"
+  }
+}

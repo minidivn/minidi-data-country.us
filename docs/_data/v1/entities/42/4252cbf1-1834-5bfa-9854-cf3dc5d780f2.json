@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6468875",
+      "title": "WikiData Q-item: Q6468875",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6468875"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Sports museum in Maryland, US"
+    },
+    "descriptions": {
+      "en": "Sports museum in Maryland, US"
+    },
+    "domain": "general",
+    "id": "Q6468875",
+    "labels": {
+      "en": "Lacrosse Museum and National Hall of Fame"
+    },
+    "properties": {
+      "coordinates": "Point(-76.645 39.521388888)"
+    },
+    "type": "place"
+  }
+}

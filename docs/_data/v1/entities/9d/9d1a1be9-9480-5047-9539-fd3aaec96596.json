@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3753155",
+      "title": "WikiData Q-item: Q3753155",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3753155"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "cluster of museums and historical buildings in Pittsburgh, Pennsylvania"
+    },
+    "descriptions": {
+      "en": "cluster of museums and historical buildings in Pittsburgh, Pennsylvania"
+    },
+    "domain": "general",
+    "id": "Q3753155",
+    "labels": {
+      "en": "Frick Art & Historical Center"
+    },
+    "properties": {
+      "coordinates": "Point(-79.901 40.448)"
+    },
+    "type": "place"
+  }
+}

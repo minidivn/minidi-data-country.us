@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7164008",
+      "title": "WikiData Q-item: Q7164008",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7164008"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "museum in Pennsylvania, USA"
+    },
+    "descriptions": {
+      "en": "museum in Pennsylvania, USA"
+    },
+    "domain": "general",
+    "id": "Q7164008",
+    "labels": {
+      "en": "Pennsylvania Military Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-77.7953 40.7819)"
+    },
+    "type": "place"
+  }
+}

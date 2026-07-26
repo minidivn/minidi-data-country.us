@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1504861",
+      "title": "WikiData Q-item: Q1504861",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1504861"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Founding conference of the United Nations"
+    },
+    "descriptions": {
+      "en": "Founding conference of the United Nations"
+    },
+    "domain": "general",
+    "id": "Q1504861",
+    "labels": {
+      "en": "United Nations Conference on International Organization"
+    },
+    "properties": {
+      "end_time": "1945-06-26T00:00:00Z",
+      "start_time": "1945-04-25T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q935",
+      "title": "WikiData Q-item: Q935",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q935"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English mathematician and physicist (1642–1727)"
+    },
+    "descriptions": {
+      "en": "English mathematician and physicist (1642–1727)"
+    },
+    "domain": "general",
+    "id": "Q935",
+    "labels": {
+      "en": "Isaac Newton"
+    },
+    "properties": {
+      "birth_date": "1643-01-04T00:00:00Z",
+      "death_date": "1727-03-31T00:00:00Z",
+      "occupation": "mathematician"
+    },
+    "type": "person"
+  }
+}

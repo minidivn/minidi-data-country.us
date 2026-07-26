@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4887273",
+      "title": "WikiData Q-item: Q4887273",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4887273"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "University of Texas building at Austin, known as Ben"
+    },
+    "descriptions": {
+      "en": "University of Texas building at Austin, known as Ben"
+    },
+    "domain": "general",
+    "id": "Q4887273",
+    "labels": {
+      "en": "Benedict Hall"
+    },
+    "properties": {
+      "coordinates": "Point(-97.739 30.284)"
+    },
+    "type": "place"
+  }
+}

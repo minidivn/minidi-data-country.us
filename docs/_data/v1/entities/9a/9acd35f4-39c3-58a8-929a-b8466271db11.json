@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1411096",
+      "title": "WikiData Q-item: Q1411096",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1411096"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "early military operation of the Mexican–American War where the United States was able to occupy and eventually annex Alta California"
+    },
+    "descriptions": {
+      "en": "early military operation of the Mexican–American War where the United States was able to occupy and eventually annex Alta California"
+    },
+    "domain": "general",
+    "id": "Q1411096",
+    "labels": {
+      "en": "Conquest of California"
+    },
+    "properties": {
+      "end_time": "1847-01-13T00:00:00Z",
+      "start_time": "1846-06-15T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

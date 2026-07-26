@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q106784581",
+      "title": "WikiData Q-item: Q106784581",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q106784581"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "collection of Persian, Ottoman Turkish, Arabic, and Armenian manuscripts, scrolls and artifacts dating from 1492-1848 (held at UCLA)"
+    },
+    "descriptions": {
+      "en": "collection of Persian, Ottoman Turkish, Arabic, and Armenian manuscripts, scrolls and artifacts dating from 1492-1848 (held at UCLA)"
+    },
+    "domain": "general",
+    "id": "Q106784581",
+    "labels": {
+      "en": "Exhibit collection of Near Eastern manuscripts"
+    },
+    "properties": {
+      "end_time": "1848-01-01T00:00:00Z",
+      "start_time": "1492-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

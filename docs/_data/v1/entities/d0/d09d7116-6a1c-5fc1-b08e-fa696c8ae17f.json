@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7641227",
+      "title": "WikiData Q-item: Q7641227",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7641227"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "beach in Cape May County, New Jersey"
+    },
+    "descriptions": {
+      "en": "beach in Cape May County, New Jersey"
+    },
+    "domain": "general",
+    "id": "Q7641227",
+    "labels": {
+      "en": "Sunset Beach"
+    },
+    "properties": {
+      "coordinates": "Point(-74.9705 38.9444)"
+    },
+    "type": "place"
+  }
+}

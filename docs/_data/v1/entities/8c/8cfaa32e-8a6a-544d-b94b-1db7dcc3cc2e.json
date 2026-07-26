@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q59928529",
+      "title": "WikiData Q-item: Q59928529",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q59928529"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "series in the National Archives and Records Administration's holdings"
+    },
+    "descriptions": {
+      "en": "series in the National Archives and Records Administration's holdings"
+    },
+    "domain": "general",
+    "id": "Q59928529",
+    "labels": {
+      "en": "Records of the Special Allotting Agent (NAID 49884288)"
+    },
+    "properties": {
+      "end_time": "1916-01-01T00:00:00Z",
+      "start_time": "1907-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

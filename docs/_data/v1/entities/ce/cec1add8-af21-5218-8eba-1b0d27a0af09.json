@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q28368819",
+      "title": "WikiData Q-item: Q28368819",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q28368819"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Corsicana State School"
+    },
+    "descriptions": {
+      "en": "Corsicana State School"
+    },
+    "domain": "general",
+    "id": "Q28368819",
+    "labels": {
+      "en": "Corsicana Residential Treatment Center"
+    },
+    "properties": {
+      "coordinates": "Point(-96.46751 32.09312)"
+    },
+    "type": "place"
+  }
+}

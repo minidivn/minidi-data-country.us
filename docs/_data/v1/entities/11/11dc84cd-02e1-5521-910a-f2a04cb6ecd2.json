@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6729885",
+      "title": "WikiData Q-item: Q6729885",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6729885"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Former US national forest in New Mexico established in 1906 as Magdalena Forest Reserve until merged into Datil National Forest in 1909"
+    },
+    "descriptions": {
+      "en": "Former US national forest in New Mexico established in 1906 as Magdalena Forest Reserve until merged into Datil National Forest in 1909"
+    },
+    "domain": "general",
+    "id": "Q6729885",
+    "labels": {
+      "en": "Magdalena National Forest"
+    },
+    "properties": {
+      "start_time": "1907-03-04T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

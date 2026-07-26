@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6479388",
+      "title": "WikiData Q-item: Q6479388",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6479388"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "museum in Colorado, United States"
+    },
+    "descriptions": {
+      "en": "museum in Colorado, United States"
+    },
+    "domain": "general",
+    "id": "Q6479388",
+    "labels": {
+      "en": "Lakewood Cultural Center"
+    },
+    "properties": {
+      "coordinates": "Point(-105.085136926 39.708926238)"
+    },
+    "type": "place"
+  }
+}

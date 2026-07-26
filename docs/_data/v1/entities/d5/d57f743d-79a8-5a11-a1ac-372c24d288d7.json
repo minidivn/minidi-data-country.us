@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q18149261",
+      "title": "WikiData Q-item: Q18149261",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q18149261"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "historic wooden building in Santa Rosa, California"
+    },
+    "descriptions": {
+      "en": "historic wooden building in Santa Rosa, California"
+    },
+    "domain": "general",
+    "id": "Q18149261",
+    "labels": {
+      "en": "Church of One Tree"
+    },
+    "properties": {
+      "coordinates": "Point(-122.714 38.43604)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5471598",
+      "title": "WikiData Q-item: Q5471598",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5471598"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "place in Texas, United States"
+    },
+    "descriptions": {
+      "en": "place in Texas, United States"
+    },
+    "domain": "general",
+    "id": "Q5471598",
+    "labels": {
+      "en": "Fort Mason"
+    },
+    "properties": {
+      "coordinates": "Point(-99.2478 30.7403)"
+    },
+    "type": "place"
+  }
+}

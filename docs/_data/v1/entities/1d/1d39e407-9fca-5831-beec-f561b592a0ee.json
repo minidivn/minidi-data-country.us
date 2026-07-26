@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q111905239",
+      "title": "WikiData Q-item: Q111905239",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q111905239"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "heritage site in Thailand"
+    },
+    "descriptions": {
+      "en": "heritage site in Thailand"
+    },
+    "domain": "general",
+    "id": "Q111905239",
+    "labels": {
+      "en": "Historic City of Ayutthaya"
+    },
+    "properties": {
+      "coordinates": "Point(100.560555555 14.347777777)"
+    },
+    "type": "place"
+  }
+}

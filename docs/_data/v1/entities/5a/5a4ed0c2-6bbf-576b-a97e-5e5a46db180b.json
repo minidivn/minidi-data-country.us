@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1035",
+      "title": "WikiData Q-item: Q1035",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1035"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English naturalist and biologist (1809–1882)"
+    },
+    "descriptions": {
+      "en": "English naturalist and biologist (1809–1882)"
+    },
+    "domain": "general",
+    "id": "Q1035",
+    "labels": {
+      "en": "Q1035"
+    },
+    "properties": {
+      "birth_date": "1809-02-12T00:00:00Z",
+      "death_date": "1882-04-19T00:00:00Z",
+      "occupation": "ethologist"
+    },
+    "type": "person"
+  }
+}

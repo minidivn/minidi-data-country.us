@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1319362",
+      "title": "WikiData Q-item: Q1319362",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1319362"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "research institute in Virginia, USA"
+    },
+    "descriptions": {
+      "en": "research institute in Virginia, USA"
+    },
+    "domain": "general",
+    "id": "Q1319362",
+    "labels": {
+      "en": "Janelia Research Campus"
+    },
+    "properties": {
+      "coordinates": "Point(-77.4648 39.0716)"
+    },
+    "type": "place"
+  }
+}

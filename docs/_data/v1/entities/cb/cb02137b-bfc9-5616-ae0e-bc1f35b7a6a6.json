@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7963626",
+      "title": "WikiData Q-item: Q7963626",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7963626"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "industrial in Omaha, Nebraska"
+    },
+    "descriptions": {
+      "en": "industrial in Omaha, Nebraska"
+    },
+    "domain": "general",
+    "id": "Q7963626",
+    "labels": {
+      "en": "Walnut Hill Pumping Station"
+    },
+    "properties": {
+      "coordinates": "Point(-95.9717 41.2711)"
+    },
+    "type": "place"
+  }
+}

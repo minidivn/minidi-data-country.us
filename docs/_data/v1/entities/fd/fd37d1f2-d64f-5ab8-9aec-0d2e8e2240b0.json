@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q22058955",
+      "title": "WikiData Q-item: Q22058955",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q22058955"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Beach on the east shore of the island of Hawaii"
+    },
+    "descriptions": {
+      "en": "Beach on the east shore of the island of Hawaii"
+    },
+    "domain": "general",
+    "id": "Q22058955",
+    "labels": {
+      "en": "Kehena Beach"
+    },
+    "properties": {
+      "coordinates": "Point(-154.9293273 19.3948588)"
+    },
+    "type": "place"
+  }
+}

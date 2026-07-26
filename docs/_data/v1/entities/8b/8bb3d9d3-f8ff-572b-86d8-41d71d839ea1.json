@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7190411",
+      "title": "WikiData Q-item: Q7190411",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7190411"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "urban public plaza in downtown New Orleans, Louisiana"
+    },
+    "descriptions": {
+      "en": "urban public plaza in downtown New Orleans, Louisiana"
+    },
+    "domain": "general",
+    "id": "Q7190411",
+    "labels": {
+      "en": "Piazza d'Italia"
+    },
+    "properties": {
+      "coordinates": "Point(-90.0664 29.9478)"
+    },
+    "type": "place"
+  }
+}

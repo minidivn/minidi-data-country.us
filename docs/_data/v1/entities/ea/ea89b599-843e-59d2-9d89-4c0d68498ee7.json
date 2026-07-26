@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q56274970",
+      "title": "WikiData Q-item: Q56274970",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q56274970"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "combination weapon in the collection Metropolitan Museum of Art"
+    },
+    "descriptions": {
+      "en": "combination weapon in the collection Metropolitan Museum of Art"
+    },
+    "domain": "general",
+    "id": "Q56274970",
+    "labels": {
+      "en": "Boar Spear with Double Barrel Wheellock Pistol"
+    },
+    "properties": {},
+    "type": "place"
+  }
+}

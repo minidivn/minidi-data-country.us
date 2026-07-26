@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3001121",
+      "title": "WikiData Q-item: Q3001121",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3001121"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "the highest court in the U.S. state of Vermont"
+    },
+    "descriptions": {
+      "en": "the highest court in the U.S. state of Vermont"
+    },
+    "domain": "general",
+    "id": "Q3001121",
+    "labels": {
+      "en": "Vermont Supreme Court"
+    },
+    "properties": {
+      "coordinates": "Point(-72.57975 44.26166)"
+    },
+    "type": "place"
+  }
+}

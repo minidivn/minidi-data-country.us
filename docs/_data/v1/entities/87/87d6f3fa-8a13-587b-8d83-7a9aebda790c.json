@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5080639",
+      "title": "WikiData Q-item: Q5080639",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5080639"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "also known as the Erie Club, is a historic home/clubhouse located in Erie, Pennsylvania"
+    },
+    "descriptions": {
+      "en": "also known as the Erie Club, is a historic home/clubhouse located in Erie, Pennsylvania"
+    },
+    "domain": "general",
+    "id": "Q5080639",
+    "labels": {
+      "en": "Charles Manning Reed Mansion"
+    },
+    "properties": {
+      "coordinates": "Point(-80.0875 42.128889)"
+    },
+    "type": "place"
+  }
+}

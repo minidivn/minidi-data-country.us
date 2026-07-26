@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q38283757",
+      "title": "WikiData Q-item: Q38283757",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q38283757"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "part of Corfu town, Greece"
+    },
+    "descriptions": {
+      "en": "part of Corfu town, Greece"
+    },
+    "domain": "general",
+    "id": "Q38283757",
+    "labels": {
+      "en": "Old town of Corfu"
+    },
+    "properties": {
+      "coordinates": "Point(19.92193 39.624658)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q880529",
+      "title": "WikiData Q-item: Q880529",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q880529"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Northwest Nevada dry lake"
+    },
+    "descriptions": {
+      "en": "Northwest Nevada dry lake"
+    },
+    "domain": "general",
+    "id": "Q880529",
+    "labels": {
+      "en": "Black Rock Desert"
+    },
+    "properties": {
+      "coordinates": "Point(-119.063888888 40.883055555)"
+    },
+    "type": "place"
+  }
+}

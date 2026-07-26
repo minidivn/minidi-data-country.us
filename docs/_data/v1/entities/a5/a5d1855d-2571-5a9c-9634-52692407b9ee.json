@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6694",
+      "title": "WikiData Q-item: Q6694",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6694"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Prussian geographer, naturalist and explorer (1769-1859)"
+    },
+    "descriptions": {
+      "en": "Prussian geographer, naturalist and explorer (1769-1859)"
+    },
+    "domain": "general",
+    "id": "Q6694",
+    "labels": {
+      "en": "Alexander von Humboldt"
+    },
+    "properties": {
+      "birth_date": "1769-09-14T00:00:00Z",
+      "death_date": "1859-05-06T00:00:00Z",
+      "occupation": "cartographer"
+    },
+    "type": "person"
+  }
+}

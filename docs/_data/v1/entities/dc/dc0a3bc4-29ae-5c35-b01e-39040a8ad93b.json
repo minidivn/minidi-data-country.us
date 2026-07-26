@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4106942",
+      "title": "WikiData Q-item: Q4106942",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4106942"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "cycling at the Olympics"
+    },
+    "descriptions": {
+      "en": "cycling at the Olympics"
+    },
+    "domain": "general",
+    "id": "Q4106942",
+    "labels": {
+      "en": "cycling at the 1904 Summer Olympics – 25 miles"
+    },
+    "properties": {
+      "start_time": "1904-08-05T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

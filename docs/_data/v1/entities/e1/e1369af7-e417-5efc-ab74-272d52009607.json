@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q18157117",
+      "title": "WikiData Q-item: Q18157117",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q18157117"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "United States football trophy"
+    },
+    "descriptions": {
+      "en": "United States football trophy"
+    },
+    "domain": "general",
+    "id": "Q18157117",
+    "labels": {
+      "en": "Ram–Crusader Cup"
+    },
+    "properties": {
+      "start_time": "1902-11-08T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q111153864",
+      "title": "WikiData Q-item: Q111153864",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q111153864"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "branch of Brooklyn Public Library"
+    },
+    "descriptions": {
+      "en": "branch of Brooklyn Public Library"
+    },
+    "domain": "general",
+    "id": "Q111153864",
+    "labels": {
+      "en": "DeKalb Library"
+    },
+    "properties": {
+      "coordinates": "Point(-73.928402066 40.694834291)"
+    },
+    "type": "place"
+  }
+}

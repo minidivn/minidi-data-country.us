@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6800561",
+      "title": "WikiData Q-item: Q6800561",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6800561"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Railway museum in Maricopa County, Arizona"
+    },
+    "descriptions": {
+      "en": "Railway museum in Maricopa County, Arizona"
+    },
+    "domain": "general",
+    "id": "Q6800561",
+    "labels": {
+      "en": "McCormick-Stillman Railroad Park"
+    },
+    "properties": {
+      "coordinates": "Point(-111.922706 33.53746)"
+    },
+    "type": "place"
+  }
+}

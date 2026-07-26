@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6135223",
+      "title": "WikiData Q-item: Q6135223",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6135223"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1804 naval battle, part of First Barbary War (October 1803 – September 1804)"
+    },
+    "descriptions": {
+      "en": "1804 naval battle, part of First Barbary War (October 1803 – September 1804)"
+    },
+    "domain": "general",
+    "id": "Q6135223",
+    "labels": {
+      "en": "Second Battle of Tripoli Harbor"
+    },
+    "properties": {
+      "end_time": "1804-09-10T00:00:00Z",
+      "start_time": "1804-08-03T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

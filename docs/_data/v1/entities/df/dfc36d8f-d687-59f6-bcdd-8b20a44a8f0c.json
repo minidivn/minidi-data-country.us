@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6064513",
+      "title": "WikiData Q-item: Q6064513",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6064513"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "student Union in North Madison Street Iowa City, IA"
+    },
+    "descriptions": {
+      "en": "student Union in North Madison Street Iowa City, IA"
+    },
+    "domain": "general",
+    "id": "Q6064513",
+    "labels": {
+      "en": "Iowa Memorial Union"
+    },
+    "properties": {
+      "coordinates": "Point(-91.538268 41.663062)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7982292",
+      "title": "WikiData Q-item: Q7982292",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7982292"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Museum in Wenatchee, Washington, US"
+    },
+    "descriptions": {
+      "en": "Museum in Wenatchee, Washington, US"
+    },
+    "domain": "general",
+    "id": "Q7982292",
+    "labels": {
+      "en": "Wenatchee Valley Museum & Cultural Center"
+    },
+    "properties": {
+      "coordinates": "Point(-120.311 47.4225)"
+    },
+    "type": "place"
+  }
+}

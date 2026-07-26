@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q22095760",
+      "title": "WikiData Q-item: Q22095760",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q22095760"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Soccer club in Los Angeles, USA"
+    },
+    "descriptions": {
+      "en": "Soccer club in Los Angeles, USA"
+    },
+    "domain": "general",
+    "id": "Q22095760",
+    "labels": {
+      "en": "Orange County Soccer Club"
+    },
+    "properties": {},
+    "type": "place"
+  }
+}

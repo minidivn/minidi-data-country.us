@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6858332",
+      "title": "WikiData Q-item: Q6858332",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6858332"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "museum complex in Norwalk, Connecticut"
+    },
+    "descriptions": {
+      "en": "museum complex in Norwalk, Connecticut"
+    },
+    "domain": "general",
+    "id": "Q6858332",
+    "labels": {
+      "en": "Mill Hill Historic Park"
+    },
+    "properties": {
+      "coordinates": "Point(-73.4095 41.1175)"
+    },
+    "type": "place"
+  }
+}

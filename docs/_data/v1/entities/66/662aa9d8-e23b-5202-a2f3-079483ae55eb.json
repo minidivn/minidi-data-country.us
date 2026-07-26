@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q170438",
+      "title": "WikiData Q-item: Q170438",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q170438"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "building located in the Chelsea neighborhood of the Manhattan, New York City, USA"
+    },
+    "descriptions": {
+      "en": "building located in the Chelsea neighborhood of the Manhattan, New York City, USA"
+    },
+    "domain": "general",
+    "id": "Q170438",
+    "labels": {
+      "en": "111 Eighth Avenue"
+    },
+    "properties": {
+      "coordinates": "Point(-74.0031 40.7414)"
+    },
+    "type": "place"
+  }
+}

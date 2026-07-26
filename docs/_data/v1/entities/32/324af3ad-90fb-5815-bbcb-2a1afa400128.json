@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q809600",
+      "title": "WikiData Q-item: Q809600",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q809600"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "museum in Cambridge, Massachusetts; part of Harvard Art Museums"
+    },
+    "descriptions": {
+      "en": "museum in Cambridge, Massachusetts; part of Harvard Art Museums"
+    },
+    "domain": "general",
+    "id": "Q809600",
+    "labels": {
+      "en": "Fogg Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-71.114358 42.37409)"
+    },
+    "type": "place"
+  }
+}

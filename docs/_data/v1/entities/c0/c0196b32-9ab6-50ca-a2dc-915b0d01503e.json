@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4999172",
+      "title": "WikiData Q-item: Q4999172",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4999172"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "California museum (1995–2019)"
+    },
+    "descriptions": {
+      "en": "California museum (1995–2019)"
+    },
+    "domain": "general",
+    "id": "Q4999172",
+    "labels": {
+      "en": "Burlingame Museum of Pez Memorabilia"
+    },
+    "properties": {
+      "coordinates": "Point(-122.344209 37.579196)"
+    },
+    "type": "place"
+  }
+}

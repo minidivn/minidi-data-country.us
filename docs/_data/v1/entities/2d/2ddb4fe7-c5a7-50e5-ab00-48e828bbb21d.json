@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4871346",
+      "title": "WikiData Q-item: Q4871346",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4871346"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1864 attack on a Union supply base at Johnsonville during the American Civil War"
+    },
+    "descriptions": {
+      "en": "1864 attack on a Union supply base at Johnsonville during the American Civil War"
+    },
+    "domain": "general",
+    "id": "Q4871346",
+    "labels": {
+      "en": "Battle of Johnsonville"
+    },
+    "properties": {
+      "end_time": "1864-11-05T00:00:00Z",
+      "start_time": "1864-11-04T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1419283",
+      "title": "WikiData Q-item: Q1419283",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1419283"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": ""
+    },
+    "descriptions": {
+      "en": ""
+    },
+    "domain": "general",
+    "id": "Q1419283",
+    "labels": {
+      "en": "First Baptist Church (Whitehouse)"
+    },
+    "properties": {
+      "coordinates": "Point(-95.214069 32.227772)"
+    },
+    "type": "place"
+  }
+}

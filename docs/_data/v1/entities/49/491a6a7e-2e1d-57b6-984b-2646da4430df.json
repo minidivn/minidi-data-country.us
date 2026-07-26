@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q55628368",
+      "title": "WikiData Q-item: Q55628368",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q55628368"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "pair of flintlock pistols"
+    },
+    "descriptions": {
+      "en": "pair of flintlock pistols"
+    },
+    "domain": "general",
+    "id": "Q55628368",
+    "labels": {
+      "en": "Pair of Flintlock Pistols of Empress Catherine the Great (Metropolitan Museum of Art)"
+    },
+    "properties": {},
+    "type": "place"
+  }
+}

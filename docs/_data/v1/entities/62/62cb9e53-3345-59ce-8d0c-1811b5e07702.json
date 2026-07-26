@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q33346241",
+      "title": "WikiData Q-item: Q33346241",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q33346241"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "beach in Alger County, Michigan, United States"
+    },
+    "descriptions": {
+      "en": "beach in Alger County, Michigan, United States"
+    },
+    "domain": "general",
+    "id": "Q33346241",
+    "labels": {
+      "en": "Twelvemile Beach"
+    },
+    "properties": {
+      "coordinates": "Point(-86.306111111 46.597222222)"
+    },
+    "type": "place"
+  }
+}

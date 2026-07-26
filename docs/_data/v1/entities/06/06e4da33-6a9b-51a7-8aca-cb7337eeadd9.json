@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q56275300",
+      "title": "WikiData Q-item: Q56275300",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q56275300"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1998 sculpture by Lee Kelly in Bend, Oregon, U.S."
+    },
+    "descriptions": {
+      "en": "1998 sculpture by Lee Kelly in Bend, Oregon, U.S."
+    },
+    "domain": "general",
+    "id": "Q56275300",
+    "labels": {
+      "en": "Bend Gate"
+    },
+    "properties": {
+      "coordinates": "Point(-121.307522 44.068778)"
+    },
+    "type": "place"
+  }
+}

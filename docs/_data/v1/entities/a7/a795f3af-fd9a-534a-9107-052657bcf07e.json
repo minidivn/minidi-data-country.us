@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6963840",
+      "title": "WikiData Q-item: Q6963840",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6963840"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "historic house in Melbourne, Florida - also known as the Strawberry Mansion"
+    },
+    "descriptions": {
+      "en": "historic house in Melbourne, Florida - also known as the Strawberry Mansion"
+    },
+    "domain": "general",
+    "id": "Q6963840",
+    "labels": {
+      "en": "Nannie Lee House"
+    },
+    "properties": {
+      "coordinates": "Point(-80.602088 28.079474)"
+    },
+    "type": "place"
+  }
+}

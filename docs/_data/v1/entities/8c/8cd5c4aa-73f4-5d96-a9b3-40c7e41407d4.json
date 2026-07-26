@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6378655",
+      "title": "WikiData Q-item: Q6378655",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6378655"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "beach on the north shore of the island of Kauai in Hawaii"
+    },
+    "descriptions": {
+      "en": "beach on the north shore of the island of Kauai in Hawaii"
+    },
+    "domain": "general",
+    "id": "Q6378655",
+    "labels": {
+      "en": "Kauapea Beach"
+    },
+    "properties": {
+      "coordinates": "Point(-159.4098 22.22424)"
+    },
+    "type": "place"
+  }
+}

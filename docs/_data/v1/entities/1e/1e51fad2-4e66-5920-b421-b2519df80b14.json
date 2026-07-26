@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5002609",
+      "title": "WikiData Q-item: Q5002609",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5002609"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "building in New Jersey, United States"
+    },
+    "descriptions": {
+      "en": "building in New Jersey, United States"
+    },
+    "domain": "general",
+    "id": "Q5002609",
+    "labels": {
+      "en": "Butler Farm"
+    },
+    "properties": {
+      "coordinates": "Point(-75.2714 39.7358)"
+    },
+    "type": "place"
+  }
+}

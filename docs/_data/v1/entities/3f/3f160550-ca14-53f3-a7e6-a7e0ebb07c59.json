@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7889597",
+      "title": "WikiData Q-item: Q7889597",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7889597"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "dome situated above the United States Capitol which reaches upwards to 288 feet (88 m) in height and 96 feet (29 m) in diameter"
+    },
+    "descriptions": {
+      "en": "dome situated above the United States Capitol which reaches upwards to 288 feet (88 m) in height and 96 feet (29 m) in diameter"
+    },
+    "domain": "general",
+    "id": "Q7889597",
+    "labels": {
+      "en": "United States Capitol dome"
+    },
+    "properties": {
+      "coordinates": "Point(-77.009 38.89)"
+    },
+    "type": "place"
+  }
+}

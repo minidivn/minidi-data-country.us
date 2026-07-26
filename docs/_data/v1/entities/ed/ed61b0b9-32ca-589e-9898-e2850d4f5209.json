@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q139605",
+      "title": "WikiData Q-item: Q139605",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q139605"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Texan astronomy instrument"
+    },
+    "descriptions": {
+      "en": "Texan astronomy instrument"
+    },
+    "domain": "general",
+    "id": "Q139605",
+    "labels": {
+      "en": "Hobby–Eberly Telescope"
+    },
+    "properties": {
+      "coordinates": "Point(-104.014722222 30.681444444)"
+    },
+    "type": "place"
+  }
+}

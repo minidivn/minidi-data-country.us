@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7230100",
+      "title": "WikiData Q-item: Q7230100",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7230100"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "nature preserve and park in Middletown Township, New Jersey"
+    },
+    "descriptions": {
+      "en": "nature preserve and park in Middletown Township, New Jersey"
+    },
+    "domain": "general",
+    "id": "Q7230100",
+    "labels": {
+      "en": "Poricy Park"
+    },
+    "properties": {
+      "coordinates": "Point(-74.1161 40.3692)"
+    },
+    "type": "place"
+  }
+}

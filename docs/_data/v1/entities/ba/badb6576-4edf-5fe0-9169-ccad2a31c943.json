@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4884345",
+      "title": "WikiData Q-item: Q4884345",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4884345"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "building in Ohio, United States"
+    },
+    "descriptions": {
+      "en": "building in Ohio, United States"
+    },
+    "domain": "general",
+    "id": "Q4884345",
+    "labels": {
+      "en": "Belmont County Victorian Mansion Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-81.175556 39.988056)"
+    },
+    "type": "place"
+  }
+}

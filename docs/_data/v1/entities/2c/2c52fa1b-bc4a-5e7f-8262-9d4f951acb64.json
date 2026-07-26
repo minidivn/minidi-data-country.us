@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q59936989",
+      "title": "WikiData Q-item: Q59936989",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q59936989"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "series in the National Archives and Records Administration's holdings"
+    },
+    "descriptions": {
+      "en": "series in the National Archives and Records Administration's holdings"
+    },
+    "domain": "general",
+    "id": "Q59936989",
+    "labels": {
+      "en": "Records Concerning Land Scrip Relating to Choctaw Removal (NAID 2124500)"
+    },
+    "properties": {
+      "end_time": "1846-01-01T00:00:00Z",
+      "start_time": "1843-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

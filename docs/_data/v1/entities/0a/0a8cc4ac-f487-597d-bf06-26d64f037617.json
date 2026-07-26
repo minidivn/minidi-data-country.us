@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7541393",
+      "title": "WikiData Q-item: Q7541393",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7541393"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "museum and national historic landmark in Birmingham, Alabama"
+    },
+    "descriptions": {
+      "en": "museum and national historic landmark in Birmingham, Alabama"
+    },
+    "domain": "general",
+    "id": "Q7541393",
+    "labels": {
+      "en": "Sloss Furnaces"
+    },
+    "properties": {
+      "coordinates": "Point(-86.791306 33.520656)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7083899",
+      "title": "WikiData Q-item: Q7083899",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7083899"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "in Eau Gallie, Florida"
+    },
+    "descriptions": {
+      "en": "in Eau Gallie, Florida"
+    },
+    "domain": "general",
+    "id": "Q7083899",
+    "labels": {
+      "en": "Old Eau Gallie Post Office"
+    },
+    "properties": {
+      "coordinates": "Point(-80.6287 28.1328)"
+    },
+    "type": "place"
+  }
+}

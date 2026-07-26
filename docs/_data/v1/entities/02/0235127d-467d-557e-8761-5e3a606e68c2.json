@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q162287",
+      "title": "WikiData Q-item: Q162287",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q162287"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1944 series of battles fought between US and German forces during World War II in the Hürtgen Forest of Germany"
+    },
+    "descriptions": {
+      "en": "1944 series of battles fought between US and German forces during World War II in the Hürtgen Forest of Germany"
+    },
+    "domain": "general",
+    "id": "Q162287",
+    "labels": {
+      "en": "Battle of Hürtgen Forest"
+    },
+    "properties": {
+      "end_time": "1945-02-10T00:00:00Z",
+      "start_time": "1944-09-19T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

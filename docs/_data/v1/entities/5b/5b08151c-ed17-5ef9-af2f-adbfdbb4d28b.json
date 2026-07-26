@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q747875",
+      "title": "WikiData Q-item: Q747875",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q747875"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "region in New South Wales, Australia"
+    },
+    "descriptions": {
+      "en": "region in New South Wales, Australia"
+    },
+    "domain": "general",
+    "id": "Q747875",
+    "labels": {
+      "en": "Willandra Lakes Region"
+    },
+    "properties": {
+      "coordinates": "Point(143.101406 -33.618142)"
+    },
+    "type": "place"
+  }
+}

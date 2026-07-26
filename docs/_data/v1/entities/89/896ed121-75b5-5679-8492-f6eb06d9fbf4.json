@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q139390535",
+      "title": "WikiData Q-item: Q139390535",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q139390535"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "functional monumental-scale pocket watch in Santa Fe, New Mexico made by E. Howard & Co. and purchased by Salamon Spitz in 1915 to advertise his jewelry business"
+    },
+    "descriptions": {
+      "en": "functional monumental-scale pocket watch in Santa Fe, New Mexico made by E. Howard & Co. and purchased by Salamon Spitz in 1915 to advertise his jewelry business"
+    },
+    "domain": "general",
+    "id": "Q139390535",
+    "labels": {
+      "en": "Spitz Clock"
+    },
+    "properties": {
+      "coordinates": "Point(-105.938943 35.6879513)"
+    },
+    "type": "place"
+  }
+}

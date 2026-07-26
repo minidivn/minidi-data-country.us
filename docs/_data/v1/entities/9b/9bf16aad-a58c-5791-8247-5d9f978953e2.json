@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6299609",
+      "title": "WikiData Q-item: Q6299609",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6299609"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Catholic high school in Draper, Utah, United States"
+    },
+    "descriptions": {
+      "en": "Catholic high school in Draper, Utah, United States"
+    },
+    "domain": "general",
+    "id": "Q6299609",
+    "labels": {
+      "en": "Juan Diego Catholic High School"
+    },
+    "properties": {
+      "coordinates": "Point(-111.882 40.5347)"
+    },
+    "type": "place"
+  }
+}

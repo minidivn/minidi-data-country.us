@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5164991",
+      "title": "WikiData Q-item: Q5164991",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5164991"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "museum in San Francisco, California"
+    },
+    "descriptions": {
+      "en": "museum in San Francisco, California"
+    },
+    "domain": "general",
+    "id": "Q5164991",
+    "labels": {
+      "en": "Contemporary Jewish Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-122.404 37.7858)"
+    },
+    "type": "place"
+  }
+}

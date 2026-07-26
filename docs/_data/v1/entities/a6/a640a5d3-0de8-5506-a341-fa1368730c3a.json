@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q19864341",
+      "title": "WikiData Q-item: Q19864341",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q19864341"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "annual rivalry game between the Illinois State and Bradley University"
+    },
+    "descriptions": {
+      "en": "annual rivalry game between the Illinois State and Bradley University"
+    },
+    "domain": "general",
+    "id": "Q19864341",
+    "labels": {
+      "en": "I-74 Rivalry"
+    },
+    "properties": {
+      "start_time": "1905-02-04T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

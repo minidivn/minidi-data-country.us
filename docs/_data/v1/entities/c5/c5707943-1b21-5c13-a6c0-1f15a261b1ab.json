@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q30688667",
+      "title": "WikiData Q-item: Q30688667",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q30688667"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Los Angeles Historic-Cultural Monuments"
+    },
+    "descriptions": {
+      "en": "Los Angeles Historic-Cultural Monuments"
+    },
+    "domain": "general",
+    "id": "Q30688667",
+    "labels": {
+      "en": "One Hundred Sycamore"
+    },
+    "properties": {
+      "coordinates": "Point(-118.342722222 34.073777777)"
+    },
+    "type": "place"
+  }
+}

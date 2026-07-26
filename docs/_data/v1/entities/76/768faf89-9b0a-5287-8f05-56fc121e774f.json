@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5609661",
+      "title": "WikiData Q-item: Q5609661",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5609661"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "aviation museum in Peru, Indiana"
+    },
+    "descriptions": {
+      "en": "aviation museum in Peru, Indiana"
+    },
+    "domain": "general",
+    "id": "Q5609661",
+    "labels": {
+      "en": "Grissom Air Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-86.1299 40.6693)"
+    },
+    "type": "place"
+  }
+}

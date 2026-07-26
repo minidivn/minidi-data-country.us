@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5591459",
+      "title": "WikiData Q-item: Q5591459",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5591459"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "two-story home and shrine to Elvis Presley in Holly Springs, Mississippi"
+    },
+    "descriptions": {
+      "en": "two-story home and shrine to Elvis Presley in Holly Springs, Mississippi"
+    },
+    "domain": "general",
+    "id": "Q5591459",
+    "labels": {
+      "en": "Graceland Too"
+    },
+    "properties": {
+      "coordinates": "Point(-89.445 34.7666)"
+    },
+    "type": "place"
+  }
+}

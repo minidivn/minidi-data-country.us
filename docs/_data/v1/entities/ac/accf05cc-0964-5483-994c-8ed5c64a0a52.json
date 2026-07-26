@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q137479978",
+      "title": "WikiData Q-item: Q137479978",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q137479978"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "building at 1001 Ocean Drive, Miami"
+    },
+    "descriptions": {
+      "en": "building at 1001 Ocean Drive, Miami"
+    },
+    "domain": "general",
+    "id": "Q137479978",
+    "labels": {
+      "en": "Art Deco Welcome Center"
+    },
+    "properties": {
+      "coordinates": "Point(-80.1300792 25.7803024)"
+    },
+    "type": "place"
+  }
+}

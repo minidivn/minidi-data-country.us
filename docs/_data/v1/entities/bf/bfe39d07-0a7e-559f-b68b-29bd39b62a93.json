@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q120629754",
+      "title": "WikiData Q-item: Q120629754",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q120629754"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "semi-Professional Soccer team in Lansing, Michigan, U.S"
+    },
+    "descriptions": {
+      "en": "semi-Professional Soccer team in Lansing, Michigan, U.S"
+    },
+    "domain": "general",
+    "id": "Q120629754",
+    "labels": {
+      "en": "Lansing Common FC"
+    },
+    "properties": {},
+    "type": "place"
+  }
+}

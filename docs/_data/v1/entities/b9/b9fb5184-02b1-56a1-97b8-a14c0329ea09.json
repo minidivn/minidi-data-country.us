@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q109938005",
+      "title": "WikiData Q-item: Q109938005",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q109938005"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "the process of genocide, ethnic cleansing, and population replacement of Native Americans by people of European descent in the area now known as the United States"
+    },
+    "descriptions": {
+      "en": "the process of genocide, ethnic cleansing, and population replacement of Native Americans by people of European descent in the area now known as the United States"
+    },
+    "domain": "general",
+    "id": "Q109938005",
+    "labels": {
+      "en": "colonization of the United States"
+    },
+    "properties": {
+      "start_time": "1609-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

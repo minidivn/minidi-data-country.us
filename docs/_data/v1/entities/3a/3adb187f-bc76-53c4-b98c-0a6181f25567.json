@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7196835",
+      "title": "WikiData Q-item: Q7196835",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7196835"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": ""
+    },
+    "descriptions": {
+      "en": ""
+    },
+    "domain": "general",
+    "id": "Q7196835",
+    "labels": {
+      "en": "Pioneer West Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-100.248 35.216)"
+    },
+    "type": "place"
+  }
+}

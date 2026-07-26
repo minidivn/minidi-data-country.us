@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5925205",
+      "title": "WikiData Q-item: Q5925205",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5925205"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1865–1870, United States v. Natives"
+    },
+    "descriptions": {
+      "en": "1865–1870, United States v. Natives"
+    },
+    "domain": "general",
+    "id": "Q5925205",
+    "labels": {
+      "en": "Hualapai War"
+    },
+    "properties": {
+      "end_time": "1870-01-01T00:00:00Z",
+      "start_time": "1865-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3077822",
+      "title": "WikiData Q-item: Q3077822",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3077822"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "19th century military outpost of the United States Army located in Prairie du Chien, Wisconsin"
+    },
+    "descriptions": {
+      "en": "19th century military outpost of the United States Army located in Prairie du Chien, Wisconsin"
+    },
+    "domain": "general",
+    "id": "Q3077822",
+    "labels": {
+      "en": "Fort Crawford"
+    },
+    "properties": {
+      "coordinates": "Point(-91.146944 43.043611)"
+    },
+    "type": "place"
+  }
+}

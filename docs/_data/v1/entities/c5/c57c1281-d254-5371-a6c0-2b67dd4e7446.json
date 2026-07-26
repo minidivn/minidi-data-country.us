@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q173148",
+      "title": "WikiData Q-item: Q173148",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q173148"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "island in Greece with famous Apollo sanctuary"
+    },
+    "descriptions": {
+      "en": "island in Greece with famous Apollo sanctuary"
+    },
+    "domain": "general",
+    "id": "Q173148",
+    "labels": {
+      "en": "Delos"
+    },
+    "properties": {
+      "coordinates": "Point(25.27122 37.39121)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7427550",
+      "title": "WikiData Q-item: Q7427550",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7427550"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1905 Palentological mission in Nevada"
+    },
+    "descriptions": {
+      "en": "1905 Palentological mission in Nevada"
+    },
+    "domain": "general",
+    "id": "Q7427550",
+    "labels": {
+      "en": "Saurian Expedition of 1905"
+    },
+    "properties": {
+      "end_time": "1905-06-01T00:00:00Z",
+      "start_time": "1905-05-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

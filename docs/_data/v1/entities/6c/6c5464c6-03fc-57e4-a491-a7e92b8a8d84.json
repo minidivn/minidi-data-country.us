@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5211399",
+      "title": "WikiData Q-item: Q5211399",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5211399"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Texas soccer club"
+    },
+    "descriptions": {
+      "en": "Texas soccer club"
+    },
+    "domain": "general",
+    "id": "Q5211399",
+    "labels": {
+      "en": "Dallas Rockets"
+    },
+    "properties": {},
+    "type": "place"
+  }
+}

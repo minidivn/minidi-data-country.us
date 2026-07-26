@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q2452448",
+      "title": "WikiData Q-item: Q2452448",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2452448"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "soccer club in the USA (fl. 1913–1921)"
+    },
+    "descriptions": {
+      "en": "soccer club in the USA (fl. 1913–1921)"
+    },
+    "domain": "general",
+    "id": "Q2452448",
+    "labels": {
+      "en": "Babcock and Wilcox"
+    },
+    "properties": {},
+    "type": "place"
+  }
+}

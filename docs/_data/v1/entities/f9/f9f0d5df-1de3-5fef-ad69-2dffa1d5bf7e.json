@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7801737",
+      "title": "WikiData Q-item: Q7801737",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7801737"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "military campaign during the Spanish colonization of the Americas"
+    },
+    "descriptions": {
+      "en": "military campaign during the Spanish colonization of the Americas"
+    },
+    "domain": "general",
+    "id": "Q7801737",
+    "labels": {
+      "en": "Tiguex War"
+    },
+    "properties": {
+      "point_in_time": "1540-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

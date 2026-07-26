@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4694432",
+      "title": "WikiData Q-item: Q4694432",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4694432"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "anthropology museum in Palm Springs, California Caliente Cultural Caliente Cultural Museum)"
+    },
+    "descriptions": {
+      "en": "anthropology museum in Palm Springs, California Caliente Cultural Caliente Cultural Museum)"
+    },
+    "domain": "general",
+    "id": "Q4694432",
+    "labels": {
+      "en": "Agua Caliente Cultural Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-116.547 33.821)"
+    },
+    "type": "place"
+  }
+}

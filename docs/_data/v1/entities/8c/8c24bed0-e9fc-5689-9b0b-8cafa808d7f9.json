@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4856212",
+      "title": "WikiData Q-item: Q4856212",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4856212"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "building in New Mexico, United States"
+    },
+    "descriptions": {
+      "en": "building in New Mexico, United States"
+    },
+    "domain": "general",
+    "id": "Q4856212",
+    "labels": {
+      "en": "Bank of the West Tower"
+    },
+    "properties": {
+      "coordinates": "Point(-106.586 35.0782)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4683411",
+      "title": "WikiData Q-item: Q4683411",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4683411"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "historic place in Decatur, Wise County, Texas"
+    },
+    "descriptions": {
+      "en": "historic place in Decatur, Wise County, Texas"
+    },
+    "domain": "general",
+    "id": "Q4683411",
+    "labels": {
+      "en": "Administration Building, Decatur Baptist College"
+    },
+    "properties": {
+      "coordinates": "Point(-97.586389 33.222778)"
+    },
+    "type": "place"
+  }
+}

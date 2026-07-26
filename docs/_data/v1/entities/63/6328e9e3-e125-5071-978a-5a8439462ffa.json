@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q386481",
+      "title": "WikiData Q-item: Q386481",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q386481"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "library in Atlanta, Georgia, USA"
+    },
+    "descriptions": {
+      "en": "library in Atlanta, Georgia, USA"
+    },
+    "domain": "general",
+    "id": "Q386481",
+    "labels": {
+      "en": "Jimmy Carter Library and Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-84.356308 33.766339)"
+    },
+    "type": "place"
+  }
+}

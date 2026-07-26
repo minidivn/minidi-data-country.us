@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q150974",
+      "title": "WikiData Q-item: Q150974",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q150974"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "strategy meeting of the leaders of the USSR, the USA, and the UK in Tehran in 1943 during World War 2"
+    },
+    "descriptions": {
+      "en": "strategy meeting of the leaders of the USSR, the USA, and the UK in Tehran in 1943 during World War 2"
+    },
+    "domain": "general",
+    "id": "Q150974",
+    "labels": {
+      "en": "Tehran Conference"
+    },
+    "properties": {
+      "end_time": "1943-12-01T00:00:00Z",
+      "start_time": "1943-11-28T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

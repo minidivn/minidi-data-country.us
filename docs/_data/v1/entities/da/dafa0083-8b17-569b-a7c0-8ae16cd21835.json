@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4719162",
+      "title": "WikiData Q-item: Q4719162",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4719162"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "art museum, history museum in Port Edwards, Wisconsin"
+    },
+    "descriptions": {
+      "en": "art museum, history museum in Port Edwards, Wisconsin"
+    },
+    "domain": "general",
+    "id": "Q4719162",
+    "labels": {
+      "en": "Alexander House Center for Art & History"
+    },
+    "properties": {
+      "coordinates": "Point(-89.85982 44.35375)"
+    },
+    "type": "place"
+  }
+}

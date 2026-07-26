@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q127260818",
+      "title": "WikiData Q-item: Q127260818",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q127260818"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "former high school in Florence, South Carolina"
+    },
+    "descriptions": {
+      "en": "former high school in Florence, South Carolina"
+    },
+    "domain": "general",
+    "id": "Q127260818",
+    "labels": {
+      "en": "Florence High School"
+    },
+    "properties": {
+      "coordinates": "Point(-79.764914212 34.190010241)"
+    },
+    "type": "place"
+  }
+}

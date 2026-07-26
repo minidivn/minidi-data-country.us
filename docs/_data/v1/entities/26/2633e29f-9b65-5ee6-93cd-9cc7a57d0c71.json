@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5580527",
+      "title": "WikiData Q-item: Q5580527",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5580527"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "coastline near Santa Barbara, California"
+    },
+    "descriptions": {
+      "en": "coastline near Santa Barbara, California"
+    },
+    "domain": "general",
+    "id": "Q5580527",
+    "labels": {
+      "en": "Goleta Beach"
+    },
+    "properties": {
+      "coordinates": "Point(-119.8378 34.4147)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1876150",
+      "title": "WikiData Q-item: Q1876150",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1876150"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "building in Illinois, United States"
+    },
+    "descriptions": {
+      "en": "building in Illinois, United States"
+    },
+    "domain": "general",
+    "id": "Q1876150",
+    "labels": {
+      "en": "One North Wacker"
+    },
+    "properties": {
+      "coordinates": "Point(-87.6362 41.8822)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q2923451",
+      "title": "WikiData Q-item: Q2923451",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2923451"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Museum at the Los Alamos National Laboratory"
+    },
+    "descriptions": {
+      "en": "Museum at the Los Alamos National Laboratory"
+    },
+    "domain": "general",
+    "id": "Q2923451",
+    "labels": {
+      "en": "Bradbury Science Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-106.299 35.8816)"
+    },
+    "type": "place"
+  }
+}

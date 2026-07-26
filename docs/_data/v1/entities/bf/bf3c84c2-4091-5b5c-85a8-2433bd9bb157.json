@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q60785771",
+      "title": "WikiData Q-item: Q60785771",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q60785771"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Historic tree in the middle of a highway interchange in Maryland, US"
+    },
+    "descriptions": {
+      "en": "Historic tree in the middle of a highway interchange in Maryland, US"
+    },
+    "domain": "general",
+    "id": "Q60785771",
+    "labels": {
+      "en": "Arbutus Oak"
+    },
+    "properties": {
+      "end_time": "2019-06-01T00:00:00Z",
+      "start_time": "1690-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

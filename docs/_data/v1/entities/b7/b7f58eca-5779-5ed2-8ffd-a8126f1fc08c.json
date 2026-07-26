@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4791828",
+      "title": "WikiData Q-item: Q4791828",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4791828"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Museum in Arkansas, United States"
+    },
+    "descriptions": {
+      "en": "Museum in Arkansas, United States"
+    },
+    "domain": "general",
+    "id": "Q4791828",
+    "labels": {
+      "en": "Arkansas Museum of Natural Resources"
+    },
+    "properties": {
+      "coordinates": "Point(-92.7146 33.337)"
+    },
+    "type": "place"
+  }
+}

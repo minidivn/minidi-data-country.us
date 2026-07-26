@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6689249",
+      "title": "WikiData Q-item: Q6689249",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6689249"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "museum and hall of fame in Winnfield, Louisiana"
+    },
+    "descriptions": {
+      "en": "museum and hall of fame in Winnfield, Louisiana"
+    },
+    "domain": "general",
+    "id": "Q6689249",
+    "labels": {
+      "en": "Louisiana Political Museum and Hall of Fame"
+    },
+    "properties": {
+      "coordinates": "Point(-92.635091 31.926977)"
+    },
+    "type": "place"
+  }
+}

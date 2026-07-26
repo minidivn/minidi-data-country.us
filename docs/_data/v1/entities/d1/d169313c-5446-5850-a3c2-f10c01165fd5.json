@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q329812",
+      "title": "WikiData Q-item: Q329812",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q329812"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Major League Soccer club that plays in Kansas City, Kansas, USA"
+    },
+    "descriptions": {
+      "en": "Major League Soccer club that plays in Kansas City, Kansas, USA"
+    },
+    "domain": "general",
+    "id": "Q329812",
+    "labels": {
+      "en": "Sporting Kansas City"
+    },
+    "properties": {},
+    "type": "place"
+  }
+}

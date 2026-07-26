@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q20647686",
+      "title": "WikiData Q-item: Q20647686",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q20647686"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "shopping mall near the San José Lagoon in San Juan, Puerto Rico"
+    },
+    "descriptions": {
+      "en": "shopping mall near the San José Lagoon in San Juan, Puerto Rico"
+    },
+    "domain": "general",
+    "id": "Q20647686",
+    "labels": {
+      "en": "The Mall of San Juan"
+    },
+    "properties": {
+      "coordinates": "Point(-66.0254 18.4121)"
+    },
+    "type": "place"
+  }
+}

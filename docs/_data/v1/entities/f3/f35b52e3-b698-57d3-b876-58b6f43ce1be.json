@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q16641",
+      "title": "WikiData Q-item: Q16641",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q16641"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "unincorporated territory of the United States of America, located in the Pacific Ocean"
+    },
+    "descriptions": {
+      "en": "unincorporated territory of the United States of America, located in the Pacific Ocean"
+    },
+    "domain": "general",
+    "id": "Q16641",
+    "labels": {
+      "en": "American Samoa"
+    },
+    "properties": {
+      "coordinates": "Point(-170.7075 -14.295833)"
+    },
+    "type": "place"
+  }
+}

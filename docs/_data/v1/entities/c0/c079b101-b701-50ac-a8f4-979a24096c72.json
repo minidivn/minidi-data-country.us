@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3423621",
+      "title": "WikiData Q-item: Q3423621",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3423621"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "32-story office building in Birmingham, Alabama"
+    },
+    "descriptions": {
+      "en": "32-story office building in Birmingham, Alabama"
+    },
+    "domain": "general",
+    "id": "Q3423621",
+    "labels": {
+      "en": "Regions-Harbert Plaza"
+    },
+    "properties": {
+      "coordinates": "Point(-86.809897 33.518456)"
+    },
+    "type": "place"
+  }
+}

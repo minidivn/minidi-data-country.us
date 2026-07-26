@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7080872",
+      "title": "WikiData Q-item: Q7080872",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7080872"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "State prison in Marysville, Ohio, US"
+    },
+    "descriptions": {
+      "en": "State prison in Marysville, Ohio, US"
+    },
+    "domain": "general",
+    "id": "Q7080872",
+    "labels": {
+      "en": "Ohio Reformatory for Women"
+    },
+    "properties": {
+      "coordinates": "Point(-83.3939 40.2222)"
+    },
+    "type": "place"
+  }
+}

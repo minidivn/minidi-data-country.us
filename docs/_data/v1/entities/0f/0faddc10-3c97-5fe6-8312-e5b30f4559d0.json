@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q118388",
+      "title": "WikiData Q-item: Q118388",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q118388"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "desert basin in Inyo and San Bernadino counties in California, United States"
+    },
+    "descriptions": {
+      "en": "desert basin in Inyo and San Bernadino counties in California, United States"
+    },
+    "domain": "general",
+    "id": "Q118388",
+    "labels": {
+      "en": "Death Valley"
+    },
+    "properties": {
+      "coordinates": "Point(-116.865280555 36.456938888)"
+    },
+    "type": "place"
+  }
+}

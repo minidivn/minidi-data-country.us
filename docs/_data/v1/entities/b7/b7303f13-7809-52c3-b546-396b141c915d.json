@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5117866",
+      "title": "WikiData Q-item: Q5117866",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5117866"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "church in Rhinebeck, New York"
+    },
+    "descriptions": {
+      "en": "church in Rhinebeck, New York"
+    },
+    "domain": "general",
+    "id": "Q5117866",
+    "labels": {
+      "en": "Church of the Good Shepherd"
+    },
+    "properties": {
+      "coordinates": "Point(-73.90694444 41.92638889)"
+    },
+    "type": "place"
+  }
+}

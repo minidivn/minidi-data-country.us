@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6689293",
+      "title": "WikiData Q-item: Q6689293",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6689293"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "system of museums and historic sites in the U.S. state of Louisiana"
+    },
+    "descriptions": {
+      "en": "system of museums and historic sites in the U.S. state of Louisiana"
+    },
+    "domain": "general",
+    "id": "Q6689293",
+    "labels": {
+      "en": "Louisiana State Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-90.06375 29.95771)"
+    },
+    "type": "place"
+  }
+}

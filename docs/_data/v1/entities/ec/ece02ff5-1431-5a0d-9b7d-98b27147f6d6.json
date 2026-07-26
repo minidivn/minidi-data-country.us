@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q48791969",
+      "title": "WikiData Q-item: Q48791969",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q48791969"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Midtown Atlanta, US"
+    },
+    "descriptions": {
+      "en": "Midtown Atlanta, US"
+    },
+    "domain": "general",
+    "id": "Q48791969",
+    "labels": {
+      "en": "CODA"
+    },
+    "properties": {
+      "coordinates": "Point(-84.387638888 33.775277777)"
+    },
+    "type": "place"
+  }
+}

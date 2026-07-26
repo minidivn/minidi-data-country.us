@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5158499",
+      "title": "WikiData Q-item: Q5158499",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5158499"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "concert hall in Boston, Massachusetts"
+    },
+    "descriptions": {
+      "en": "concert hall in Boston, Massachusetts"
+    },
+    "domain": "general",
+    "id": "Q5158499",
+    "labels": {
+      "en": "Concert Hall (Boston)"
+    },
+    "properties": {
+      "coordinates": "Point(-71.0603 42.3604)"
+    },
+    "type": "place"
+  }
+}

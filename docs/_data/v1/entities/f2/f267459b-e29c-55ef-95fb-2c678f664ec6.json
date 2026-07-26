@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q34694297",
+      "title": "WikiData Q-item: Q34694297",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q34694297"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "beach in St. Lawrence County, New York, United States"
+    },
+    "descriptions": {
+      "en": "beach in St. Lawrence County, New York, United States"
+    },
+    "domain": "general",
+    "id": "Q34694297",
+    "labels": {
+      "en": "Massena Beach"
+    },
+    "properties": {
+      "coordinates": "Point(-74.936944444 44.950555555)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q112258424",
+      "title": "WikiData Q-item: Q112258424",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q112258424"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Archival Collection"
+    },
+    "descriptions": {
+      "en": "Archival Collection"
+    },
+    "domain": "general",
+    "id": "Q112258424",
+    "labels": {
+      "en": "Linda Downs Research Collection, 1907-2000"
+    },
+    "properties": {
+      "end_time": "2000-01-01T00:00:00Z",
+      "start_time": "1907-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

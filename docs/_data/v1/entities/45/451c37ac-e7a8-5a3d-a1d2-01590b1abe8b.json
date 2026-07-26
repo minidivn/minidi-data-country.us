@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q131882642",
+      "title": "WikiData Q-item: Q131882642",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q131882642"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "former administrative division of the United States Soil Conservation Service"
+    },
+    "descriptions": {
+      "en": "former administrative division of the United States Soil Conservation Service"
+    },
+    "domain": "general",
+    "id": "Q131882642",
+    "labels": {
+      "en": "Soil Conservation Service Pacific Region"
+    },
+    "properties": {
+      "start_time": "1942-07-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

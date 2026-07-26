@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q110890679",
+      "title": "WikiData Q-item: Q110890679",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q110890679"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1942 exhibition at Museum of Modern Art"
+    },
+    "descriptions": {
+      "en": "1942 exhibition at Museum of Modern Art"
+    },
+    "domain": "general",
+    "id": "Q110890679",
+    "labels": {
+      "en": "Dancers in Movement: Photographs by Gjon Mili"
+    },
+    "properties": {
+      "end_time": "1942-04-09T00:00:00Z",
+      "start_time": "1942-01-13T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

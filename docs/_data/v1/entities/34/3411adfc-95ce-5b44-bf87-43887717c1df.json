@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7056723",
+      "title": "WikiData Q-item: Q7056723",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7056723"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "residential skyscrapers in Queens, New York"
+    },
+    "descriptions": {
+      "en": "residential skyscrapers in Queens, New York"
+    },
+    "domain": "general",
+    "id": "Q7056723",
+    "labels": {
+      "en": "North Shore Towers"
+    },
+    "properties": {
+      "coordinates": "Point(-73.715 40.7574)"
+    },
+    "type": "place"
+  }
+}

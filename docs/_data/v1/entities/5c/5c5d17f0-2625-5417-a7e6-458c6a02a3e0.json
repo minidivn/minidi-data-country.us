@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q745979",
+      "title": "WikiData Q-item: Q745979",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q745979"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1863 major battle of the American Civil War"
+    },
+    "descriptions": {
+      "en": "1863 major battle of the American Civil War"
+    },
+    "domain": "general",
+    "id": "Q745979",
+    "labels": {
+      "en": "Battle of Chancellorsville"
+    },
+    "properties": {
+      "end_time": "1863-05-06T00:00:00Z",
+      "start_time": "1863-04-30T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

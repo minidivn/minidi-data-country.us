@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3323246",
+      "title": "WikiData Q-item: Q3323246",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3323246"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "landmark in Buffalo, New York"
+    },
+    "descriptions": {
+      "en": "landmark in Buffalo, New York"
+    },
+    "domain": "general",
+    "id": "Q3323246",
+    "labels": {
+      "en": "McKinley Monument"
+    },
+    "properties": {
+      "coordinates": "Point(-78.8781 42.8864)"
+    },
+    "type": "place"
+  }
+}

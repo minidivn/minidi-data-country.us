@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q33333287",
+      "title": "WikiData Q-item: Q33333287",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q33333287"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "beach in South Haven, Michigan"
+    },
+    "descriptions": {
+      "en": "beach in South Haven, Michigan"
+    },
+    "domain": "general",
+    "id": "Q33333287",
+    "labels": {
+      "en": "South Beach"
+    },
+    "properties": {
+      "coordinates": "Point(-86.283888888 42.401111111)"
+    },
+    "type": "place"
+  }
+}

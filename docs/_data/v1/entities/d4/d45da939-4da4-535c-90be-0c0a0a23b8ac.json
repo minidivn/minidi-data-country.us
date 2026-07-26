@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4947776",
+      "title": "WikiData Q-item: Q4947776",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4947776"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "series of three riots by the poor of Boston, Massachusetts"
+    },
+    "descriptions": {
+      "en": "series of three riots by the poor of Boston, Massachusetts"
+    },
+    "domain": "general",
+    "id": "Q4947776",
+    "labels": {
+      "en": "Boston Bread Riot"
+    },
+    "properties": {
+      "end_time": "1713-01-01T00:00:00Z",
+      "start_time": "1710-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

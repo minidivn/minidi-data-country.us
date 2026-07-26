@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q69476872",
+      "title": "WikiData Q-item: Q69476872",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q69476872"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "public library system in Kentucky, USA"
+    },
+    "descriptions": {
+      "en": "public library system in Kentucky, USA"
+    },
+    "domain": "general",
+    "id": "Q69476872",
+    "labels": {
+      "en": "Louisville Free Public Library"
+    },
+    "properties": {
+      "start_time": "1902-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

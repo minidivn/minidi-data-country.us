@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5182061",
+      "title": "WikiData Q-item: Q5182061",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5182061"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Dalton, Massachusetts, listed on the NRHP"
+    },
+    "descriptions": {
+      "en": "Dalton, Massachusetts, listed on the NRHP"
+    },
+    "domain": "general",
+    "id": "Q5182061",
+    "labels": {
+      "en": "Crane and Company Old Stone Mill Rag Room"
+    },
+    "properties": {
+      "coordinates": "Point(-73.178333 42.469444)"
+    },
+    "type": "place"
+  }
+}

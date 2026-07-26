@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q65118867",
+      "title": "WikiData Q-item: Q65118867",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q65118867"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "football club"
+    },
+    "descriptions": {
+      "en": "football club"
+    },
+    "domain": "general",
+    "id": "Q65118867",
+    "labels": {
+      "en": "AHFC Royals"
+    },
+    "properties": {},
+    "type": "place"
+  }
+}

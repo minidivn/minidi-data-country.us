@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7200239",
+      "title": "WikiData Q-item: Q7200239",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7200239"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "private museum in Barrington Hills, Illinois, United States, known for its collection of antique music machines, including phonographs, player pianos, fairground and band organs, calliopes, and a large theater pipe organ"
+    },
+    "descriptions": {
+      "en": "private museum in Barrington Hills, Illinois, United States, known for its collection of antique music machines, including phonographs, player pianos, fairground and band organs, calliopes, and a large theater pipe organ"
+    },
+    "domain": "general",
+    "id": "Q7200239",
+    "labels": {
+      "en": "Place de la Musique"
+    },
+    "properties": {
+      "coordinates": "Point(-88.21138889 42.17972222)"
+    },
+    "type": "place"
+  }
+}

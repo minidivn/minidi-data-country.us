@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q19744961",
+      "title": "WikiData Q-item: Q19744961",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q19744961"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "traditional village in East Nusa Tenggara, Indonesia"
+    },
+    "descriptions": {
+      "en": "traditional village in East Nusa Tenggara, Indonesia"
+    },
+    "domain": "general",
+    "id": "Q19744961",
+    "labels": {
+      "en": "Wae Rebo"
+    },
+    "properties": {
+      "coordinates": "Point(120.4234 -8.4926)"
+    },
+    "type": "place"
+  }
+}

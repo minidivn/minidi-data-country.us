@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q21609077",
+      "title": "WikiData Q-item: Q21609077",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q21609077"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "residential in Chicago, IL"
+    },
+    "descriptions": {
+      "en": "residential in Chicago, IL"
+    },
+    "domain": "general",
+    "id": "Q21609077",
+    "labels": {
+      "en": "113 East Roosevelt"
+    },
+    "properties": {
+      "coordinates": "Point(-87.6227 41.8673)"
+    },
+    "type": "place"
+  }
+}

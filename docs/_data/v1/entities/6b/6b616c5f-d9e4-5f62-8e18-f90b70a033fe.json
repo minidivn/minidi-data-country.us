@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6693192",
+      "title": "WikiData Q-item: Q6693192",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6693192"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "anthropology museum in Wichita, KS USA"
+    },
+    "descriptions": {
+      "en": "anthropology museum in Wichita, KS USA"
+    },
+    "domain": "general",
+    "id": "Q6693192",
+    "labels": {
+      "en": "Lowell D. Holmes Museum of Anthropology"
+    },
+    "properties": {
+      "coordinates": "Point(-97.2931 37.7181)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q524272",
+      "title": "WikiData Q-item: Q524272",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q524272"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "campaigns of the Pacific War in Burma, Ceylon, India, Thailand, Indochina, the Philippines, Malaya and Singapore"
+    },
+    "descriptions": {
+      "en": "campaigns of the Pacific War in Burma, Ceylon, India, Thailand, Indochina, the Philippines, Malaya and Singapore"
+    },
+    "domain": "general",
+    "id": "Q524272",
+    "labels": {
+      "en": "South-East Asian theater of World War II"
+    },
+    "properties": {
+      "end_time": "1945-09-09T00:00:00Z",
+      "start_time": "1941-12-08T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

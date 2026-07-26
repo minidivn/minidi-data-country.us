@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5337873",
+      "title": "WikiData Q-item: Q5337873",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5337873"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "historic home located at Frederick, Frederick County, Maryland, United States"
+    },
+    "descriptions": {
+      "en": "historic home located at Frederick, Frederick County, Maryland, United States"
+    },
+    "domain": "general",
+    "id": "Q5337873",
+    "labels": {
+      "en": "Edgewood"
+    },
+    "properties": {
+      "coordinates": "Point(-77.4242 39.4589)"
+    },
+    "type": "place"
+  }
+}

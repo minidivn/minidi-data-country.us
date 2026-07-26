@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4031150",
+      "title": "WikiData Q-item: Q4031150",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4031150"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "US three-dollar coin (1854–1889)"
+    },
+    "descriptions": {
+      "en": "US three-dollar coin (1854–1889)"
+    },
+    "domain": "general",
+    "id": "Q4031150",
+    "labels": {
+      "en": "three-dollar piece"
+    },
+    "properties": {
+      "end_time": "1889-01-01T00:00:00Z",
+      "start_time": "1854-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

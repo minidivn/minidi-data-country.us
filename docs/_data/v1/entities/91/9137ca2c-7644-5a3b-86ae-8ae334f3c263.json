@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q757871",
+      "title": "WikiData Q-item: Q757871",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q757871"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1942 raid of Allied shipping by the Imperial Japanese Navy"
+    },
+    "descriptions": {
+      "en": "1942 raid of Allied shipping by the Imperial Japanese Navy"
+    },
+    "domain": "general",
+    "id": "Q757871",
+    "labels": {
+      "en": "Indian Ocean raid"
+    },
+    "properties": {
+      "end_time": "1942-04-10T00:00:00Z",
+      "start_time": "1942-03-31T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

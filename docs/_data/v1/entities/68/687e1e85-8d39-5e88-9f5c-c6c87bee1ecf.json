@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5331707",
+      "title": "WikiData Q-item: Q5331707",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5331707"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "building in Pennsylvania, United States"
+    },
+    "descriptions": {
+      "en": "building in Pennsylvania, United States"
+    },
+    "domain": "general",
+    "id": "Q5331707",
+    "labels": {
+      "en": "Ebenezer Maxwell House"
+    },
+    "properties": {
+      "coordinates": "Point(-75.183889 40.038056)"
+    },
+    "type": "place"
+  }
+}

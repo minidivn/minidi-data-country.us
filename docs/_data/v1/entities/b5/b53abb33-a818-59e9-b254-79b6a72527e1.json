@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7821528",
+      "title": "WikiData Q-item: Q7821528",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7821528"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "massacre of Tonkawa tribe members during the American Civil War"
+    },
+    "descriptions": {
+      "en": "massacre of Tonkawa tribe members during the American Civil War"
+    },
+    "domain": "general",
+    "id": "Q7821528",
+    "labels": {
+      "en": "Tonkawa Massacre"
+    },
+    "properties": {
+      "point_in_time": "1862-10-24T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

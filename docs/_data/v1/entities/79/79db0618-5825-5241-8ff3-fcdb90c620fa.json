@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q116952988",
+      "title": "WikiData Q-item: Q116952988",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q116952988"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "former forest reserve of the United States renamed White River National Forest in 1907"
+    },
+    "descriptions": {
+      "en": "former forest reserve of the United States renamed White River National Forest in 1907"
+    },
+    "domain": "general",
+    "id": "Q116952988",
+    "labels": {
+      "en": "White River Forest Reserve"
+    },
+    "properties": {
+      "end_time": "1907-03-04T00:00:00Z",
+      "start_time": "1902-06-28T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

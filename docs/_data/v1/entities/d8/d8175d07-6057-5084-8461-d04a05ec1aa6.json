@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4944716",
+      "title": "WikiData Q-item: Q4944716",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4944716"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "historic house in Maryland"
+    },
+    "descriptions": {
+      "en": "historic house in Maryland"
+    },
+    "domain": "general",
+    "id": "Q4944716",
+    "labels": {
+      "en": "Borderside"
+    },
+    "properties": {
+      "coordinates": "Point(-79.0725 39.478611)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q186312",
+      "title": "WikiData Q-item: Q186312",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q186312"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "archaeological site in southeastern Israel"
+    },
+    "descriptions": {
+      "en": "archaeological site in southeastern Israel"
+    },
+    "domain": "general",
+    "id": "Q186312",
+    "labels": {
+      "en": "Masada"
+    },
+    "properties": {
+      "coordinates": "Point(35.353888888 31.315555555)"
+    },
+    "type": "place"
+  }
+}

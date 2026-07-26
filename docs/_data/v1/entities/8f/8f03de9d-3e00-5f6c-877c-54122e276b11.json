@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7882094",
+      "title": "WikiData Q-item: Q7882094",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7882094"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Biological reserve in Una, Bahia, Brazil"
+    },
+    "descriptions": {
+      "en": "Biological reserve in Una, Bahia, Brazil"
+    },
+    "domain": "general",
+    "id": "Q7882094",
+    "labels": {
+      "en": "Una Biological Reserve"
+    },
+    "properties": {
+      "coordinates": "Point(-39.13222222 -15.17305556)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5459529",
+      "title": "WikiData Q-item: Q5459529",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5459529"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "academic offices, classrooms, former research laboratories, restaurant"
+    },
+    "descriptions": {
+      "en": "academic offices, classrooms, former research laboratories, restaurant"
+    },
+    "domain": "general",
+    "id": "Q5459529",
+    "labels": {
+      "en": "Flint Laboratory"
+    },
+    "properties": {
+      "coordinates": "Point(-72.5296 42.3916)"
+    },
+    "type": "place"
+  }
+}

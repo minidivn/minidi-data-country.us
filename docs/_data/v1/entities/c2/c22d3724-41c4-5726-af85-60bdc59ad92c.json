@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q128795655",
+      "title": "WikiData Q-item: Q128795655",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q128795655"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "term of state legislature in Louisiana, United States"
+    },
+    "descriptions": {
+      "en": "term of state legislature in Louisiana, United States"
+    },
+    "domain": "general",
+    "id": "Q128795655",
+    "labels": {
+      "en": "22nd Louisiana Legislature"
+    },
+    "properties": {
+      "start_time": "1853-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

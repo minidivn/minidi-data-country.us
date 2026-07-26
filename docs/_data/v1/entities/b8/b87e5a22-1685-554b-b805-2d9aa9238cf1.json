@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4639988",
+      "title": "WikiData Q-item: Q4639988",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4639988"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "buildings and structures in Minneapolis"
+    },
+    "descriptions": {
+      "en": "buildings and structures in Minneapolis"
+    },
+    "domain": "general",
+    "id": "Q4639988",
+    "labels": {
+      "en": "511 Building"
+    },
+    "properties": {
+      "coordinates": "Point(-93.2547 44.9717)"
+    },
+    "type": "place"
+  }
+}

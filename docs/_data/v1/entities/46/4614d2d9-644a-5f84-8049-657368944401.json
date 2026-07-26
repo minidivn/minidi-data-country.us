@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q2095464",
+      "title": "WikiData Q-item: Q2095464",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2095464"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "historic estate on Biscayne Bay; Coconut Grove neighborhood of Miami, Florida"
+    },
+    "descriptions": {
+      "en": "historic estate on Biscayne Bay; Coconut Grove neighborhood of Miami, Florida"
+    },
+    "domain": "general",
+    "id": "Q2095464",
+    "labels": {
+      "en": "Vizcaya Museum and Gardens"
+    },
+    "properties": {
+      "coordinates": "Point(-80.210278 25.743611)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q8025276",
+      "title": "WikiData Q-item: Q8025276",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q8025276"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "non-profit organization in the USA"
+    },
+    "descriptions": {
+      "en": "non-profit organization in the USA"
+    },
+    "domain": "general",
+    "id": "Q8025276",
+    "labels": {
+      "en": "Wings Over the Rockies Air and Space Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-104.895443126 39.72118778)"
+    },
+    "type": "place"
+  }
+}

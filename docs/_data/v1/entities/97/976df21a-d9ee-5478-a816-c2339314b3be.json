@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5331819",
+      "title": "WikiData Q-item: Q5331819",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5331819"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "building in Pennsylvania, United States"
+    },
+    "descriptions": {
+      "en": "building in Pennsylvania, United States"
+    },
+    "domain": "general",
+    "id": "Q5331819",
+    "labels": {
+      "en": "Eberly Hall"
+    },
+    "properties": {
+      "coordinates": "Point(-79.9584 40.4459)"
+    },
+    "type": "place"
+  }
+}

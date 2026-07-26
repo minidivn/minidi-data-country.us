@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5147377",
+      "title": "WikiData Q-item: Q5147377",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5147377"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "dormitory in Ohio, United States"
+    },
+    "descriptions": {
+      "en": "dormitory in Ohio, United States"
+    },
+    "domain": "general",
+    "id": "Q5147377",
+    "labels": {
+      "en": "Collins Hall"
+    },
+    "properties": {
+      "coordinates": "Point(-84.727 39.5116)"
+    },
+    "type": "place"
+  }
+}

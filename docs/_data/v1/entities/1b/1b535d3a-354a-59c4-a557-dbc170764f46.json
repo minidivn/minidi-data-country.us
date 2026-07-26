@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q28446775",
+      "title": "WikiData Q-item: Q28446775",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q28446775"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "settlement house in New York City which offers arts education, senior service and behavioral health programs"
+    },
+    "descriptions": {
+      "en": "settlement house in New York City which offers arts education, senior service and behavioral health programs"
+    },
+    "domain": "general",
+    "id": "Q28446775",
+    "labels": {
+      "en": "Greenwich House"
+    },
+    "properties": {
+      "coordinates": "Point(-74.003333333 40.732222222)"
+    },
+    "type": "place"
+  }
+}

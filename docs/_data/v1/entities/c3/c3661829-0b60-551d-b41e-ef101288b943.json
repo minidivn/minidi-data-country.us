@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7099121",
+      "title": "WikiData Q-item: Q7099121",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7099121"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "building in Rochester, Minnesota"
+    },
+    "descriptions": {
+      "en": "building in Rochester, Minnesota"
+    },
+    "domain": "general",
+    "id": "Q7099121",
+    "labels": {
+      "en": "Opus Imaging Research Building"
+    },
+    "properties": {
+      "coordinates": "Point(-92.468611111 44.019722222)"
+    },
+    "type": "place"
+  }
+}

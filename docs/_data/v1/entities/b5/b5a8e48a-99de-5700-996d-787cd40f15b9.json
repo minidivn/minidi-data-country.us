@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4744723",
+      "title": "WikiData Q-item: Q4744723",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4744723"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "United States historic place"
+    },
+    "descriptions": {
+      "en": "United States historic place"
+    },
+    "domain": "general",
+    "id": "Q4744723",
+    "labels": {
+      "en": "American Precision Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-72.389722 43.474722)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4645592",
+      "title": "WikiData Q-item: Q4645592",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4645592"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Office building in Washington, DC"
+    },
+    "descriptions": {
+      "en": "Office building in Washington, DC"
+    },
+    "domain": "general",
+    "id": "Q4645592",
+    "labels": {
+      "en": "901 New York Avenue"
+    },
+    "properties": {
+      "coordinates": "Point(-77.0254 38.9022)"
+    },
+    "type": "place"
+  }
+}

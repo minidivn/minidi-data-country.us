@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1601838",
+      "title": "WikiData Q-item: Q1601838",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1601838"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "museum in Lawrence, Kansas, United States"
+    },
+    "descriptions": {
+      "en": "museum in Lawrence, Kansas, United States"
+    },
+    "domain": "general",
+    "id": "Q1601838",
+    "labels": {
+      "en": "Spencer Museum of Art"
+    },
+    "properties": {
+      "coordinates": "Point(-95.2446 38.9597)"
+    },
+    "type": "place"
+  }
+}

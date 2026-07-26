@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6824858",
+      "title": "WikiData Q-item: Q6824858",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6824858"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "US radio and television studio facility located at 5746 Sunset Boulevard in Hollywood, Los Angeles, California"
+    },
+    "descriptions": {
+      "en": "US radio and television studio facility located at 5746 Sunset Boulevard in Hollywood, Los Angeles, California"
+    },
+    "domain": "general",
+    "id": "Q6824858",
+    "labels": {
+      "en": "Metromedia Square"
+    },
+    "properties": {
+      "coordinates": "Point(-118.315212 34.096351)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6913548",
+      "title": "WikiData Q-item: Q6913548",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6913548"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "academic offices, classrooms, collections and research laboratories"
+    },
+    "descriptions": {
+      "en": "academic offices, classrooms, collections and research laboratories"
+    },
+    "domain": "general",
+    "id": "Q6913548",
+    "labels": {
+      "en": "Morrill Science Center"
+    },
+    "properties": {
+      "coordinates": "Point(-72.5245 42.3902)"
+    },
+    "type": "place"
+  }
+}

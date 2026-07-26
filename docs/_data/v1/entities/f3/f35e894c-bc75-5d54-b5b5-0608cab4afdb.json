@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6857905",
+      "title": "WikiData Q-item: Q6857905",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6857905"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "act of US Congress that allowed African-Americans to be soldiers and war laborers"
+    },
+    "descriptions": {
+      "en": "act of US Congress that allowed African-Americans to be soldiers and war laborers"
+    },
+    "domain": "general",
+    "id": "Q6857905",
+    "labels": {
+      "en": "Militia Act of 1862"
+    },
+    "properties": {
+      "point_in_time": "1862-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

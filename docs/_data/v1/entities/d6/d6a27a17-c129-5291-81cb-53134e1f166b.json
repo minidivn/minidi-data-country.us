@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q27096877",
+      "title": "WikiData Q-item: Q27096877",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q27096877"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "mummified remains from the Chinchorro culture, found in northern Chile"
+    },
+    "descriptions": {
+      "en": "mummified remains from the Chinchorro culture, found in northern Chile"
+    },
+    "domain": "general",
+    "id": "Q27096877",
+    "labels": {
+      "en": "Chinchorro mummies"
+    },
+    "properties": {
+      "coordinates": "Point(-70.321114 -18.480596)"
+    },
+    "type": "place"
+  }
+}

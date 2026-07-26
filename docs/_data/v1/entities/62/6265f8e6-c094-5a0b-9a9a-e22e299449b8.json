@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q137731605",
+      "title": "WikiData Q-item: Q137731605",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q137731605"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "This article refers to the interconnected military, naval, economic, and informational developments that occurred outside Europe during the Thirty Years' War (1618–1648).\nAlthough the conflict is traditionally portrayed as a Central European and intra-imperial war, several Atlantic, African, and Asian theatres significantly influenced its outcome. These overseas dimensions involved mainly the pro-Habsburg and Catholic Iberian Union (Spain and Portugal) against the anti-Hasburg and Protestant coalition (Dutch Republic, England, and various chartered trading companies), whose colonial rivalries reshaped the economic foundations of European states engaged in the war and were intimately related in the diplomatic and strategic area. This generally involved skirmishes and naval blockades (mainly to seizure colonial outposts or trade ships) rather than large and pitched battles."
+    },
+    "descriptions": {
+      "en": "1618–1651 theater of war"
+    },
+    "domain": "general",
+    "id": "Q137731605",
+    "labels": {
+      "en": "Thirty Years' War outside Europe"
+    },
+    "properties": {
+      "end_time": "1651-01-01T00:00:00Z",
+      "start_time": "1618-01-01T00:00:00Z",
+      "summary": "This article refers to the interconnected military, naval, economic, and informational developments that occurred outside Europe during the Thirty Years' War (1618–1648).\nAlthough the conflict is traditionally portrayed as a Central European and intra-imperial war, several Atlantic, African, and Asian theatres significantly influenced its outcome. These overseas dimensions involved mainly the pro-Habsburg and Catholic Iberian Union (Spain and Portugal) against the anti-Hasburg and Protestant coalition (Dutch Republic, England, and various chartered trading companies), whose colonial rivalries reshaped the economic foundations of European states engaged in the war and were intimately related in the diplomatic and strategic area. This generally involved skirmishes and naval blockades (mainly to seizure colonial outposts or trade ships) rather than large and pitched battles."
+    },
+    "type": "event"
+  }
+}

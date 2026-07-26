@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5098167",
+      "title": "WikiData Q-item: Q5098167",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5098167"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "non-profit organization in the USA"
+    },
+    "descriptions": {
+      "en": "non-profit organization in the USA"
+    },
+    "domain": "general",
+    "id": "Q5098167",
+    "labels": {
+      "en": "Children's Museum of Denver"
+    },
+    "properties": {
+      "coordinates": "Point(-105.017 39.749)"
+    },
+    "type": "place"
+  }
+}

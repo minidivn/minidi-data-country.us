@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6352159",
+      "title": "WikiData Q-item: Q6352159",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6352159"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "residential in Detroit, Michigan"
+    },
+    "descriptions": {
+      "en": "residential in Detroit, Michigan"
+    },
+    "domain": "general",
+    "id": "Q6352159",
+    "labels": {
+      "en": "Kales Building"
+    },
+    "properties": {
+      "coordinates": "Point(-83.0525 42.336666666)"
+    },
+    "type": "place"
+  }
+}

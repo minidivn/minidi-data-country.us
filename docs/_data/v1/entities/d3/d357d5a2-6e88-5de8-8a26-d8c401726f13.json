@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5069010",
+      "title": "WikiData Q-item: Q5069010",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5069010"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "historic factory in New York, United States"
+    },
+    "descriptions": {
+      "en": "historic factory in New York, United States"
+    },
+    "domain": "general",
+    "id": "Q5069010",
+    "labels": {
+      "en": "Chalmers Knitting Mills"
+    },
+    "properties": {
+      "coordinates": "Point(-74.196389 42.935278)"
+    },
+    "type": "place"
+  }
+}

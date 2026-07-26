@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q60739863",
+      "title": "WikiData Q-item: Q60739863",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q60739863"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "private, day school in Washington, D.C., USA"
+    },
+    "descriptions": {
+      "en": "private, day school in Washington, D.C., USA"
+    },
+    "domain": "general",
+    "id": "Q60739863",
+    "labels": {
+      "en": "Beauvoir School"
+    },
+    "properties": {
+      "coordinates": "Point(-77.068 38.9299)"
+    },
+    "type": "place"
+  }
+}

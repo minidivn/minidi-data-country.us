@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4760745",
+      "title": "WikiData Q-item: Q4760745",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4760745"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "museum in Mount Airy, NC, US"
+    },
+    "descriptions": {
+      "en": "museum in Mount Airy, NC, US"
+    },
+    "domain": "general",
+    "id": "Q4760745",
+    "labels": {
+      "en": "Andy Griffith Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-80.6088 36.4978)"
+    },
+    "type": "place"
+  }
+}

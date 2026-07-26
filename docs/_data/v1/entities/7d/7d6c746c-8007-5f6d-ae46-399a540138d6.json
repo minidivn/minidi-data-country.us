@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q66201394",
+      "title": "WikiData Q-item: Q66201394",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q66201394"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "World Heritage Site in South Korea"
+    },
+    "descriptions": {
+      "en": "World Heritage Site in South Korea"
+    },
+    "domain": "general",
+    "id": "Q66201394",
+    "labels": {
+      "en": "Gaya Tumuli"
+    },
+    "properties": {
+      "coordinates": "Point(128.873725 35.237263888)"
+    },
+    "type": "place"
+  }
+}

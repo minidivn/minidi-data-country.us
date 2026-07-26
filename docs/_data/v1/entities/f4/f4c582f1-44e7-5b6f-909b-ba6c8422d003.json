@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q31498705",
+      "title": "WikiData Q-item: Q31498705",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q31498705"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "beach in Mobile County, Alabama, United States"
+    },
+    "descriptions": {
+      "en": "beach in Mobile County, Alabama, United States"
+    },
+    "domain": "general",
+    "id": "Q31498705",
+    "labels": {
+      "en": "Bienville Beach"
+    },
+    "properties": {
+      "coordinates": "Point(-88.123611111 30.247222222)"
+    },
+    "type": "place"
+  }
+}

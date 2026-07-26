@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q49323551",
+      "title": "WikiData Q-item: Q49323551",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q49323551"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "beach in Essex County, Massachusetts, United States"
+    },
+    "descriptions": {
+      "en": "beach in Essex County, Massachusetts, United States"
+    },
+    "domain": "general",
+    "id": "Q49323551",
+    "labels": {
+      "en": "Popplestone Beach"
+    },
+    "properties": {
+      "coordinates": "Point(-70.709444444 42.573611111)"
+    },
+    "type": "place"
+  }
+}

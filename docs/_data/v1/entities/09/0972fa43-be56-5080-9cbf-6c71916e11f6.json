@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7974817",
+      "title": "WikiData Q-item: Q7974817",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7974817"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Historic farm in Jamestown, Rhode Island"
+    },
+    "descriptions": {
+      "en": "Historic farm in Jamestown, Rhode Island"
+    },
+    "domain": "general",
+    "id": "Q7974817",
+    "labels": {
+      "en": "Watson Farm"
+    },
+    "properties": {
+      "coordinates": "Point(-71.3807 41.5205)"
+    },
+    "type": "place"
+  }
+}

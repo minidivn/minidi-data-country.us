@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q16844223",
+      "title": "WikiData Q-item: Q16844223",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q16844223"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1944 battle between American and Japanese forces during World War II"
+    },
+    "descriptions": {
+      "en": "1944 battle between American and Japanese forces during World War II"
+    },
+    "domain": "general",
+    "id": "Q16844223",
+    "labels": {
+      "en": "Battle of Hollandia"
+    },
+    "properties": {
+      "end_time": "1944-06-06T00:00:00Z",
+      "start_time": "1944-04-22T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

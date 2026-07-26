@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4737439",
+      "title": "WikiData Q-item: Q4737439",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4737439"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "sports venue at Elon University"
+    },
+    "descriptions": {
+      "en": "sports venue at Elon University"
+    },
+    "domain": "general",
+    "id": "Q4737439",
+    "labels": {
+      "en": "Alumni Gym"
+    },
+    "properties": {
+      "coordinates": "Point(-79.5067 36.109)"
+    },
+    "type": "place"
+  }
+}

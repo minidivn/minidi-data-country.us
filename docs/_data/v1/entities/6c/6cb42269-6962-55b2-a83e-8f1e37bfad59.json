@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3072229",
+      "title": "WikiData Q-item: Q3072229",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3072229"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "patriotic society of the United States"
+    },
+    "descriptions": {
+      "en": "patriotic society of the United States"
+    },
+    "domain": "general",
+    "id": "Q3072229",
+    "labels": {
+      "en": "Sons of the American Revolution"
+    },
+    "properties": {
+      "coordinates": "Point(-85.763611111 38.257777777)"
+    },
+    "type": "place"
+  }
+}

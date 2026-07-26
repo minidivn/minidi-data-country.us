@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4677614",
+      "title": "WikiData Q-item: Q4677614",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4677614"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "athletic facility at the University of Illinois at Urbana–Champaign"
+    },
+    "descriptions": {
+      "en": "athletic facility at the University of Illinois at Urbana–Champaign"
+    },
+    "domain": "general",
+    "id": "Q4677614",
+    "labels": {
+      "en": "Activities and Recreation Center"
+    },
+    "properties": {
+      "coordinates": "Point(-88.23599 40.10066)"
+    },
+    "type": "place"
+  }
+}

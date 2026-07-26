@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q603622",
+      "title": "WikiData Q-item: Q603622",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q603622"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "historic citadel in Tatarstan"
+    },
+    "descriptions": {
+      "en": "historic citadel in Tatarstan"
+    },
+    "domain": "general",
+    "id": "Q603622",
+    "labels": {
+      "en": "Qazan Kremlin"
+    },
+    "properties": {
+      "coordinates": "Point(49.10724 55.797442)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5098212",
+      "title": "WikiData Q-item: Q5098212",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5098212"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Beach in San Diego, California, United States"
+    },
+    "descriptions": {
+      "en": "Beach in San Diego, California, United States"
+    },
+    "domain": "general",
+    "id": "Q5098212",
+    "labels": {
+      "en": "Children's Pool Beach"
+    },
+    "properties": {
+      "coordinates": "Point(-117.278333333 32.847777777)"
+    },
+    "type": "place"
+  }
+}

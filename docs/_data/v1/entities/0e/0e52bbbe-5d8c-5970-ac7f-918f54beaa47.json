@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q118213405",
+      "title": "WikiData Q-item: Q118213405",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q118213405"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "second annual exhibition of the National Society of Craftsmen"
+    },
+    "descriptions": {
+      "en": "second annual exhibition of the National Society of Craftsmen"
+    },
+    "domain": "general",
+    "id": "Q118213405",
+    "labels": {
+      "en": "Second Annual Exhibition of the National Society of Craftsmen"
+    },
+    "properties": {
+      "end_time": "1908-12-28T00:00:00Z",
+      "start_time": "1908-12-02T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

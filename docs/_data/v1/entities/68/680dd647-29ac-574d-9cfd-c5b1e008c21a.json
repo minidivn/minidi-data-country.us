@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5004039",
+      "title": "WikiData Q-item: Q5004039",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5004039"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "building in Pennsylvania, United States"
+    },
+    "descriptions": {
+      "en": "building in Pennsylvania, United States"
+    },
+    "domain": "general",
+    "id": "Q5004039",
+    "labels": {
+      "en": "Byecroft Farm Complex"
+    },
+    "properties": {
+      "coordinates": "Point(-75.0389 40.3369)"
+    },
+    "type": "place"
+  }
+}

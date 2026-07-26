@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5377424",
+      "title": "WikiData Q-item: Q5377424",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5377424"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "war of 1812 battles"
+    },
+    "descriptions": {
+      "en": "war of 1812 battles"
+    },
+    "domain": "general",
+    "id": "Q5377424",
+    "labels": {
+      "en": "Engagements on Lake Ontario"
+    },
+    "properties": {
+      "end_time": "1815-03-23T00:00:00Z",
+      "start_time": "1812-06-18T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

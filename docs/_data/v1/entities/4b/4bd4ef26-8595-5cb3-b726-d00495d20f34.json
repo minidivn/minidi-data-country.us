@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4828639",
+      "title": "WikiData Q-item: Q4828639",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4828639"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "aviation museum in Teterboro, New Jersey"
+    },
+    "descriptions": {
+      "en": "aviation museum in Teterboro, New Jersey"
+    },
+    "domain": "general",
+    "id": "Q4828639",
+    "labels": {
+      "en": "Aviation Hall of Fame and Museum of New Jersey"
+    },
+    "properties": {
+      "coordinates": "Point(-74.0532 40.8547)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4306264",
+      "title": "WikiData Q-item: Q4306264",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4306264"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "natural history museum in Santa Barbara, California"
+    },
+    "descriptions": {
+      "en": "natural history museum in Santa Barbara, California"
+    },
+    "domain": "general",
+    "id": "Q4306264",
+    "labels": {
+      "en": "Santa Barbara Museum of Natural History"
+    },
+    "properties": {
+      "coordinates": "Point(-119.715 34.4385)"
+    },
+    "type": "place"
+  }
+}

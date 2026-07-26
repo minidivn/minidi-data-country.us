@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q636569",
+      "title": "WikiData Q-item: Q636569",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q636569"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "feud involving two families of the West Virginia–Kentucky area"
+    },
+    "descriptions": {
+      "en": "feud involving two families of the West Virginia–Kentucky area"
+    },
+    "domain": "general",
+    "id": "Q636569",
+    "labels": {
+      "en": "Hatfield–McCoy feud"
+    },
+    "properties": {
+      "end_time": "1891-01-01T00:00:00Z",
+      "start_time": "1863-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

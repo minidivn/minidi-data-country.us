@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q34671253",
+      "title": "WikiData Q-item: Q34671253",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q34671253"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": ""
+    },
+    "descriptions": {
+      "en": ""
+    },
+    "domain": "general",
+    "id": "Q34671253",
+    "labels": {
+      "en": "Bald Beach"
+    },
+    "properties": {
+      "coordinates": "Point(-78.503333333 33.869444444)"
+    },
+    "type": "place"
+  }
+}

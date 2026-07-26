@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7169752",
+      "title": "WikiData Q-item: Q7169752",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7169752"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "museum in Illinois, United States of America"
+    },
+    "descriptions": {
+      "en": "museum in Illinois, United States of America"
+    },
+    "domain": "general",
+    "id": "Q7169752",
+    "labels": {
+      "en": "Perry County Jail"
+    },
+    "properties": {
+      "coordinates": "Point(-89.383333 38.080556)"
+    },
+    "type": "place"
+  }
+}

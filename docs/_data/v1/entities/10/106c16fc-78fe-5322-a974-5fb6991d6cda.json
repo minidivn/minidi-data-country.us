@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7462735",
+      "title": "WikiData Q-item: Q7462735",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7462735"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "in Auburn, Kentucky"
+    },
+    "descriptions": {
+      "en": "in Auburn, Kentucky"
+    },
+    "domain": "general",
+    "id": "Q7462735",
+    "labels": {
+      "en": "Shaker Museum at South Union"
+    },
+    "properties": {
+      "coordinates": "Point(-86.644444 36.884722)"
+    },
+    "type": "place"
+  }
+}

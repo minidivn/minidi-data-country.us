@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q2550380",
+      "title": "WikiData Q-item: Q2550380",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2550380"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "history museum in Minnesota, USA"
+    },
+    "descriptions": {
+      "en": "history museum in Minnesota, USA"
+    },
+    "domain": "general",
+    "id": "Q2550380",
+    "labels": {
+      "en": "Mill City Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-93.2571 44.9794)"
+    },
+    "type": "place"
+  }
+}

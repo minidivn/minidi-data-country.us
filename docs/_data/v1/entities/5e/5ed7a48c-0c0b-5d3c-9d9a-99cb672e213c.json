@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q134837864",
+      "title": "WikiData Q-item: Q134837864",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q134837864"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": ""
+    },
+    "descriptions": {
+      "en": ""
+    },
+    "domain": "general",
+    "id": "Q134837864",
+    "labels": {
+      "en": "Women US Championship 1944"
+    },
+    "properties": {
+      "end_time": "1944-05-07T00:00:00Z",
+      "start_time": "1944-04-15T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

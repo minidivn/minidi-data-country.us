@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7988280",
+      "title": "WikiData Q-item: Q7988280",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7988280"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "museum in Hemet, California, United States"
+    },
+    "descriptions": {
+      "en": "museum in Hemet, California, United States"
+    },
+    "domain": "general",
+    "id": "Q7988280",
+    "labels": {
+      "en": "Western Science Center"
+    },
+    "properties": {
+      "coordinates": "Point(-116.993 33.7053)"
+    },
+    "type": "place"
+  }
+}

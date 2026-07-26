@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4833589",
+      "title": "WikiData Q-item: Q4833589",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4833589"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "building in Baltimore, Maryland, US"
+    },
+    "descriptions": {
+      "en": "building in Baltimore, Maryland, US"
+    },
+    "domain": "general",
+    "id": "Q4833589",
+    "labels": {
+      "en": "B&O Warehouse"
+    },
+    "properties": {
+      "coordinates": "Point(-76.6189 39.2846)"
+    },
+    "type": "place"
+  }
+}

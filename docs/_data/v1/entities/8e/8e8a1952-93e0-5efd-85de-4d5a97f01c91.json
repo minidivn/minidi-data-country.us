@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1061090",
+      "title": "WikiData Q-item: Q1061090",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1061090"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1861 early battle of the American Civil War"
+    },
+    "descriptions": {
+      "en": "1861 early battle of the American Civil War"
+    },
+    "domain": "general",
+    "id": "Q1061090",
+    "labels": {
+      "en": "Battle of Philippi"
+    },
+    "properties": {
+      "point_in_time": "1861-06-03T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

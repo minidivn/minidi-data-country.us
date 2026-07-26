@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4742965",
+      "title": "WikiData Q-item: Q4742965",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4742965"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "aviation museum in Dallas, Texas"
+    },
+    "descriptions": {
+      "en": "aviation museum in Dallas, Texas"
+    },
+    "domain": "general",
+    "id": "Q4742965",
+    "labels": {
+      "en": "American Airpower Heritage Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-102.201 31.942)"
+    },
+    "type": "place"
+  }
+}

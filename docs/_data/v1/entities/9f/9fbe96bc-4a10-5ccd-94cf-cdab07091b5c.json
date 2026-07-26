@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q116448209",
+      "title": "WikiData Q-item: Q116448209",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q116448209"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "World Heritage Site in Tripoli, Lebanon"
+    },
+    "descriptions": {
+      "en": "World Heritage Site in Tripoli, Lebanon"
+    },
+    "domain": "general",
+    "id": "Q116448209",
+    "labels": {
+      "en": "Rachid Karami International Fair"
+    },
+    "properties": {
+      "coordinates": "Point(35.825911341 34.439613877)"
+    },
+    "type": "place"
+  }
+}

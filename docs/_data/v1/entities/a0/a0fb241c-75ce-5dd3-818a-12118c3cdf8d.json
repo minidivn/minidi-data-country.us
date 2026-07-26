@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q132760649",
+      "title": "WikiData Q-item: Q132760649",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q132760649"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "One of the westernmost battles of the War of 1812 was fought here between Sauk Indians with British support and a regiment under the command of major Zachary Taylor."
+    },
+    "descriptions": {
+      "en": "One of the westernmost battles of the War of 1812 was fought here between Sauk Indians with British support and a regiment under the command of major Zachary Taylor."
+    },
+    "domain": "general",
+    "id": "Q132760649",
+    "labels": {
+      "en": "Battle of Credit Island"
+    },
+    "properties": {
+      "end_time": "1814-09-05T00:00:00Z",
+      "start_time": "1814-09-04T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

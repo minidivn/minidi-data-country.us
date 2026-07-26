@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q842952",
+      "title": "WikiData Q-item: Q842952",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q842952"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "arena in North Carolina, United States"
+    },
+    "descriptions": {
+      "en": "arena in North Carolina, United States"
+    },
+    "domain": "general",
+    "id": "Q842952",
+    "labels": {
+      "en": "Greensboro Coliseum Complex"
+    },
+    "properties": {
+      "coordinates": "Point(-79.825555555 36.059722222)"
+    },
+    "type": "place"
+  }
+}

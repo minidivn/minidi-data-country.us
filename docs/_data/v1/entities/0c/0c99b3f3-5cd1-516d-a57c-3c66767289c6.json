@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1724367",
+      "title": "WikiData Q-item: Q1724367",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1724367"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "archive organization in Tampa, United States"
+    },
+    "descriptions": {
+      "en": "archive organization in Tampa, United States"
+    },
+    "domain": "general",
+    "id": "Q1724367",
+    "labels": {
+      "en": "Museum of Science & Industry"
+    },
+    "properties": {
+      "coordinates": "Point(-82.4039 28.0533)"
+    },
+    "type": "place"
+  }
+}

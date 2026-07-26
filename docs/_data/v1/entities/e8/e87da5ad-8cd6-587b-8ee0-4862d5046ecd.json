@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4861154",
+      "title": "WikiData Q-item: Q4861154",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4861154"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "beach in Oregon"
+    },
+    "descriptions": {
+      "en": "beach in Oregon"
+    },
+    "domain": "general",
+    "id": "Q4861154",
+    "labels": {
+      "en": "Barley Beach"
+    },
+    "properties": {
+      "coordinates": "Point(-124.42205 42.45678)"
+    },
+    "type": "place"
+  }
+}

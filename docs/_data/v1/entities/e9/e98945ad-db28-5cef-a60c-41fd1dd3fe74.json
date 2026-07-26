@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q14711940",
+      "title": "WikiData Q-item: Q14711940",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q14711940"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "radio tower in Vermont, United States"
+    },
+    "descriptions": {
+      "en": "radio tower in Vermont, United States"
+    },
+    "domain": "general",
+    "id": "Q14711940",
+    "labels": {
+      "en": "WCAT Radio Tower"
+    },
+    "properties": {
+      "coordinates": "Point(-73.2136 44.4964)"
+    },
+    "type": "place"
+  }
+}

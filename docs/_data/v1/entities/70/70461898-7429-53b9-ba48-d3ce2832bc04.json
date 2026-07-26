@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7987447",
+      "title": "WikiData Q-item: Q7987447",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7987447"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "railroad museum in Barstow, California"
+    },
+    "descriptions": {
+      "en": "railroad museum in Barstow, California"
+    },
+    "domain": "general",
+    "id": "Q7987447",
+    "labels": {
+      "en": "Western America Railroad Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-117.025 34.9049)"
+    },
+    "type": "place"
+  }
+}

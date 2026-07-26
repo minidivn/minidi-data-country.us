@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7510017",
+      "title": "WikiData Q-item: Q7510017",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7510017"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1777 military action in the American Revolutionary War"
+    },
+    "descriptions": {
+      "en": "1777 military action in the American Revolutionary War"
+    },
+    "domain": "general",
+    "id": "Q7510017",
+    "labels": {
+      "en": "Siege of Fort Mifflin"
+    },
+    "properties": {
+      "end_time": "1777-11-16T00:00:00Z",
+      "start_time": "1777-09-26T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

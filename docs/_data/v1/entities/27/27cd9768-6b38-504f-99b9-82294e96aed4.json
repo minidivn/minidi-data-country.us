@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4872312",
+      "title": "WikiData Q-item: Q4872312",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4872312"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1864 battle of the American Civil War"
+    },
+    "descriptions": {
+      "en": "1864 battle of the American Civil War"
+    },
+    "domain": "general",
+    "id": "Q4872312",
+    "labels": {
+      "en": "Battle of Sappony Church"
+    },
+    "properties": {
+      "point_in_time": "1864-06-28T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

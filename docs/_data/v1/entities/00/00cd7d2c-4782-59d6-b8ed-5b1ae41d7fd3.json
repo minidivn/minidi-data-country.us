@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q2187433",
+      "title": "WikiData Q-item: Q2187433",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2187433"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "non-profit organization in the USA"
+    },
+    "descriptions": {
+      "en": "non-profit organization in the USA"
+    },
+    "domain": "general",
+    "id": "Q2187433",
+    "labels": {
+      "en": "Museum of South Texas History"
+    },
+    "properties": {
+      "coordinates": "Point(-98.1614 26.3028)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5253302",
+      "title": "WikiData Q-item: Q5253302",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5253302"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "official residence of the Governor of Delaware and the governor's family"
+    },
+    "descriptions": {
+      "en": "official residence of the Governor of Delaware and the governor's family"
+    },
+    "domain": "general",
+    "id": "Q5253302",
+    "labels": {
+      "en": "Delaware Governor's Mansion"
+    },
+    "properties": {
+      "coordinates": "Point(-75.5236 39.1614)"
+    },
+    "type": "place"
+  }
+}

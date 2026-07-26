@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q15204172",
+      "title": "WikiData Q-item: Q15204172",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q15204172"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "College residence hall in Richmond, Virginia"
+    },
+    "descriptions": {
+      "en": "College residence hall in Richmond, Virginia"
+    },
+    "domain": "general",
+    "id": "Q15204172",
+    "labels": {
+      "en": "Brandt Hall"
+    },
+    "properties": {
+      "coordinates": "Point(-77.4504 37.5483)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5019213",
+      "title": "WikiData Q-item: Q5019213",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5019213"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "building in Connecticut, United States"
+    },
+    "descriptions": {
+      "en": "building in Connecticut, United States"
+    },
+    "domain": "general",
+    "id": "Q5019213",
+    "labels": {
+      "en": "Caleb Baldwin Tavern"
+    },
+    "properties": {
+      "coordinates": "Point(-73.308611 41.412778)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q124260289",
+      "title": "WikiData Q-item: Q124260289",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q124260289"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1798 robbery in Philadelphia, Pennsylvania, USA"
+    },
+    "descriptions": {
+      "en": "1798 robbery in Philadelphia, Pennsylvania, USA"
+    },
+    "domain": "general",
+    "id": "Q124260289",
+    "labels": {
+      "en": "1798 Bank of Pennsylvania heist"
+    },
+    "properties": {
+      "end_time": "1798-09-01T00:00:00Z",
+      "start_time": "1798-08-31T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

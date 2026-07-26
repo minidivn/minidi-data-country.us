@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4965882",
+      "title": "WikiData Q-item: Q4965882",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4965882"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "historic school building in Basking Ridge, New Jersey"
+    },
+    "descriptions": {
+      "en": "historic school building in Basking Ridge, New Jersey"
+    },
+    "domain": "general",
+    "id": "Q4965882",
+    "labels": {
+      "en": "Brick Academy"
+    },
+    "properties": {
+      "coordinates": "Point(-74.55 40.706666666)"
+    },
+    "type": "place"
+  }
+}

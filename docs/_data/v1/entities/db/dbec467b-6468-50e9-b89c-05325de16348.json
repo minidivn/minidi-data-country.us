@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q429371",
+      "title": "WikiData Q-item: Q429371",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q429371"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "building in Oklahoma City"
+    },
+    "descriptions": {
+      "en": "building in Oklahoma City"
+    },
+    "domain": "general",
+    "id": "Q429371",
+    "labels": {
+      "en": "Devon Energy Center"
+    },
+    "properties": {
+      "coordinates": "Point(-97.5175 35.466666666)"
+    },
+    "type": "place"
+  }
+}

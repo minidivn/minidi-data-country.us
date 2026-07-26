@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q28451150",
+      "title": "WikiData Q-item: Q28451150",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q28451150"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "football club"
+    },
+    "descriptions": {
+      "en": "football club"
+    },
+    "domain": "general",
+    "id": "Q28451150",
+    "labels": {
+      "en": "Napa Valley 1839 FC"
+    },
+    "properties": {},
+    "type": "place"
+  }
+}

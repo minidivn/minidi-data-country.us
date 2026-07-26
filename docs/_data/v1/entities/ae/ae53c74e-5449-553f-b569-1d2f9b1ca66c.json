@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5646292",
+      "title": "WikiData Q-item: Q5646292",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5646292"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "peace conference held between the United States and the Confederate States on February 3, 1865"
+    },
+    "descriptions": {
+      "en": "peace conference held between the United States and the Confederate States on February 3, 1865"
+    },
+    "domain": "general",
+    "id": "Q5646292",
+    "labels": {
+      "en": "Hampton Roads Conference"
+    },
+    "properties": {
+      "point_in_time": "1865-02-03T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

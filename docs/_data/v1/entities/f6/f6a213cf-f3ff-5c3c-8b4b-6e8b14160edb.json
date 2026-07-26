@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1735004",
+      "title": "WikiData Q-item: Q1735004",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1735004"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "January 1700 megathrust earthquake affecting the North American Pacific North West coast"
+    },
+    "descriptions": {
+      "en": "January 1700 megathrust earthquake affecting the North American Pacific North West coast"
+    },
+    "domain": "general",
+    "id": "Q1735004",
+    "labels": {
+      "en": "1700 Cascadia earthquake"
+    },
+    "properties": {
+      "point_in_time": "1700-01-26T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1415871",
+      "title": "WikiData Q-item: Q1415871",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1415871"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "historic military post and museum"
+    },
+    "descriptions": {
+      "en": "historic military post and museum"
+    },
+    "domain": "general",
+    "id": "Q1415871",
+    "labels": {
+      "en": "Fort Tejon"
+    },
+    "properties": {
+      "coordinates": "Point(-118.894 34.874)"
+    },
+    "type": "place"
+  }
+}

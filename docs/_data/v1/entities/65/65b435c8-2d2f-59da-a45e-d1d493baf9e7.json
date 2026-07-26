@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4818009",
+      "title": "WikiData Q-item: Q4818009",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4818009"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "battle during King Philip's War"
+    },
+    "descriptions": {
+      "en": "battle during King Philip's War"
+    },
+    "domain": "general",
+    "id": "Q4818009",
+    "labels": {
+      "en": "Attack on Sudbury"
+    },
+    "properties": {
+      "point_in_time": "1676-04-21T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

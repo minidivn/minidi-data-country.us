@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5279920",
+      "title": "WikiData Q-item: Q5279920",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5279920"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Set of rooms in Washington, DC"
+    },
+    "descriptions": {
+      "en": "Set of rooms in Washington, DC"
+    },
+    "domain": "general",
+    "id": "Q5279920",
+    "labels": {
+      "en": "Diplomatic Reception Rooms, U.S. Department of State"
+    },
+    "properties": {
+      "coordinates": "Point(-77.0484 38.8944)"
+    },
+    "type": "place"
+  }
+}

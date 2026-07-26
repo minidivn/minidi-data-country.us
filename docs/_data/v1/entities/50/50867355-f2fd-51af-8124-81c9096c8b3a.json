@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7443106",
+      "title": "WikiData Q-item: Q7443106",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7443106"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "final battle in the Pyramid Lake War of 1860"
+    },
+    "descriptions": {
+      "en": "final battle in the Pyramid Lake War of 1860"
+    },
+    "domain": "general",
+    "id": "Q7443106",
+    "labels": {
+      "en": "Second Battle of Pyramid Lake"
+    },
+    "properties": {
+      "end_time": "1860-06-04T00:00:00Z",
+      "start_time": "1860-06-02T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

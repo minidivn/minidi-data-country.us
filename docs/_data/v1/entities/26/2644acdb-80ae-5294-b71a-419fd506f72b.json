@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6541602",
+      "title": "WikiData Q-item: Q6541602",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6541602"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Museum in Melbourne, Florida"
+    },
+    "descriptions": {
+      "en": "Museum in Melbourne, Florida"
+    },
+    "domain": "general",
+    "id": "Q6541602",
+    "labels": {
+      "en": "Liberty Bell Memorial Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-80.6133 28.0821)"
+    },
+    "type": "place"
+  }
+}

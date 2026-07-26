@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q12296445",
+      "title": "WikiData Q-item: Q12296445",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q12296445"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1941-1946 United States military theater of operations"
+    },
+    "descriptions": {
+      "en": "1941-1946 United States military theater of operations"
+    },
+    "domain": "general",
+    "id": "Q12296445",
+    "labels": {
+      "en": "Asiatic-Pacific Theater"
+    },
+    "properties": {
+      "end_time": "1946-03-02T00:00:00Z",
+      "start_time": "1941-12-07T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

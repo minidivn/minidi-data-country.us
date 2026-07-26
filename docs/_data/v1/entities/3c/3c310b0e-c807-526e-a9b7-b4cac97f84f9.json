@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q105748800",
+      "title": "WikiData Q-item: Q105748800",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q105748800"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "photographs and writings of Charles Kikuchi, psychiatric social worker for the VA and author of The Kikuchi Diary (held at UCLA)"
+    },
+    "descriptions": {
+      "en": "photographs and writings of Charles Kikuchi, psychiatric social worker for the VA and author of The Kikuchi Diary (held at UCLA)"
+    },
+    "domain": "general",
+    "id": "Q105748800",
+    "labels": {
+      "en": "Charles Kikuchi papers"
+    },
+    "properties": {
+      "end_time": "1988-01-01T00:00:00Z",
+      "start_time": "1941-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

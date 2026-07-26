@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5160789",
+      "title": "WikiData Q-item: Q5160789",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5160789"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "office building in Portland, Oregon"
+    },
+    "descriptions": {
+      "en": "office building in Portland, Oregon"
+    },
+    "domain": "general",
+    "id": "Q5160789",
+    "labels": {
+      "en": "Congress Center"
+    },
+    "properties": {
+      "coordinates": "Point(-122.68 45.5165)"
+    },
+    "type": "place"
+  }
+}

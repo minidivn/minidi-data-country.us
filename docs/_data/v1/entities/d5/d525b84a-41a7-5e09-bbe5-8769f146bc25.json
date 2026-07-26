@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4870630",
+      "title": "WikiData Q-item: Q4870630",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4870630"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Part of the American Civil War in New Mexico Territory (1861)"
+    },
+    "descriptions": {
+      "en": "Part of the American Civil War in New Mexico Territory (1861)"
+    },
+    "domain": "general",
+    "id": "Q4870630",
+    "labels": {
+      "en": "Battle of Canada Alamosa"
+    },
+    "properties": {
+      "end_time": "1861-09-25T00:00:00Z",
+      "start_time": "1861-09-24T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

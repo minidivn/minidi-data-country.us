@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q2038126",
+      "title": "WikiData Q-item: Q2038126",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2038126"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "military conflict between North Carolina and the Tuscarora from 1711 to 1715"
+    },
+    "descriptions": {
+      "en": "military conflict between North Carolina and the Tuscarora from 1711 to 1715"
+    },
+    "domain": "general",
+    "id": "Q2038126",
+    "labels": {
+      "en": "Tuscarora War"
+    },
+    "properties": {
+      "end_time": "1715-02-11T00:00:00Z",
+      "start_time": "1711-09-10T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

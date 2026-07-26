@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7734042",
+      "title": "WikiData Q-item: Q7734042",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7734042"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "contemporary arts center in Burlington, Vermont"
+    },
+    "descriptions": {
+      "en": "contemporary arts center in Burlington, Vermont"
+    },
+    "domain": "general",
+    "id": "Q7734042",
+    "labels": {
+      "en": "The Firehouse Gallery"
+    },
+    "properties": {
+      "coordinates": "Point(-73.2128 44.4765)"
+    },
+    "type": "place"
+  }
+}

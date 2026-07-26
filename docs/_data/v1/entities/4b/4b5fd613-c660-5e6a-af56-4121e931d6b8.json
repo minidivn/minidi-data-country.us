@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7259",
+      "title": "WikiData Q-item: Q7259",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7259"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English mathematician (1815–1852)"
+    },
+    "descriptions": {
+      "en": "English mathematician (1815–1852)"
+    },
+    "domain": "general",
+    "id": "Q7259",
+    "labels": {
+      "en": "Ada Lovelace"
+    },
+    "properties": {
+      "birth_date": "1815-12-10T00:00:00Z",
+      "death_date": "1852-11-27T00:00:00Z",
+      "occupation": "inventor"
+    },
+    "type": "person"
+  }
+}

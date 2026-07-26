@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q17184027",
+      "title": "WikiData Q-item: Q17184027",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q17184027"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "grist Mill in Columbia, Maryland"
+    },
+    "descriptions": {
+      "en": "grist Mill in Columbia, Maryland"
+    },
+    "domain": "general",
+    "id": "Q17184027",
+    "labels": {
+      "en": "Simpsonville Mill"
+    },
+    "properties": {
+      "coordinates": "Point(-76.89433 39.18829)"
+    },
+    "type": "place"
+  }
+}

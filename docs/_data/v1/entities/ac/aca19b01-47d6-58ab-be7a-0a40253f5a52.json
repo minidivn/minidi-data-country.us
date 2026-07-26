@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q21016136",
+      "title": "WikiData Q-item: Q21016136",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q21016136"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "office building in downtown Cleveland, Ohio United States"
+    },
+    "descriptions": {
+      "en": "office building in downtown Cleveland, Ohio United States"
+    },
+    "domain": "general",
+    "id": "Q21016136",
+    "labels": {
+      "en": "Rose Building"
+    },
+    "properties": {
+      "coordinates": "Point(-81.68611111 41.49916667)"
+    },
+    "type": "place"
+  }
+}

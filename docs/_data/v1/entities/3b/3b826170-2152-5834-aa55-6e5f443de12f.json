@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1214",
+      "title": "WikiData Q-item: Q1214",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1214"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "state of the United States of America"
+    },
+    "descriptions": {
+      "en": "state of the United States of America"
+    },
+    "domain": "general",
+    "id": "Q1214",
+    "labels": {
+      "en": "Wyoming"
+    },
+    "properties": {
+      "coordinates": "Point(-107.5 43.0)"
+    },
+    "type": "place"
+  }
+}

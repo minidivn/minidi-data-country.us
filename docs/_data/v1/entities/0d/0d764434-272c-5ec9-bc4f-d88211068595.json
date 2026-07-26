@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q56282537",
+      "title": "WikiData Q-item: Q56282537",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q56282537"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "waterslide Hotel"
+    },
+    "descriptions": {
+      "en": "waterslide Hotel"
+    },
+    "domain": "general",
+    "id": "Q56282537",
+    "labels": {
+      "en": "Sheraton Norfolk Waterside Hotel"
+    },
+    "properties": {
+      "coordinates": "Point(-76.289444444 36.843611111)"
+    },
+    "type": "place"
+  }
+}

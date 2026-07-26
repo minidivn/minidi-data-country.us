@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q2874695",
+      "title": "WikiData Q-item: Q2874695",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2874695"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "battle of the American Civil War"
+    },
+    "descriptions": {
+      "en": "battle of the American Civil War"
+    },
+    "domain": "general",
+    "id": "Q2874695",
+    "labels": {
+      "en": "Battle of Crampton's Gap"
+    },
+    "properties": {
+      "point_in_time": "1862-09-14T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

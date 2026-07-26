@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6684785",
+      "title": "WikiData Q-item: Q6684785",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6684785"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "major student dormitory at the University of Pittsburgh in Pennsylvania"
+    },
+    "descriptions": {
+      "en": "major student dormitory at the University of Pittsburgh in Pennsylvania"
+    },
+    "domain": "general",
+    "id": "Q6684785",
+    "labels": {
+      "en": "Lothrop Hall"
+    },
+    "properties": {
+      "coordinates": "Point(-79.9601 40.4417)"
+    },
+    "type": "place"
+  }
+}

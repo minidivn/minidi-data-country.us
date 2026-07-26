@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q106990149",
+      "title": "WikiData Q-item: Q106990149",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q106990149"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "collection of materials related to the Sleepy Lagoon trial (held at UCLA)"
+    },
+    "descriptions": {
+      "en": "collection of materials related to the Sleepy Lagoon trial (held at UCLA)"
+    },
+    "domain": "general",
+    "id": "Q106990149",
+    "labels": {
+      "en": "Sleepy Lagoon Defense Committee records"
+    },
+    "properties": {
+      "end_time": "1945-01-01T00:00:00Z",
+      "start_time": "1942-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

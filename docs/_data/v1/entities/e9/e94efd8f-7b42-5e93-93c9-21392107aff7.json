@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4890567",
+      "title": "WikiData Q-item: Q4890567",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4890567"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "academic in Ohio, USA"
+    },
+    "descriptions": {
+      "en": "academic in Ohio, USA"
+    },
+    "domain": "general",
+    "id": "Q4890567",
+    "labels": {
+      "en": "Benton Hall"
+    },
+    "properties": {
+      "coordinates": "Point(-84.7341 39.5107)"
+    },
+    "type": "place"
+  }
+}

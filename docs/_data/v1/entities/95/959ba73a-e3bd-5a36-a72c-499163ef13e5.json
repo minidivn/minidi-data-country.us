@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q116943542",
+      "title": "WikiData Q-item: Q116943542",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q116943542"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "World Heritage Site in Yemen"
+    },
+    "descriptions": {
+      "en": "World Heritage Site in Yemen"
+    },
+    "domain": "general",
+    "id": "Q116943542",
+    "labels": {
+      "en": "Landmarks of the Ancient Kingdom of Saba"
+    },
+    "properties": {
+      "coordinates": "Point(45.335227777 15.426769444)"
+    },
+    "type": "place"
+  }
+}

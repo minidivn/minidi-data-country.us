@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q104861036",
+      "title": "WikiData Q-item: Q104861036",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q104861036"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "art installation in El Paso, Texas"
+    },
+    "descriptions": {
+      "en": "art installation in El Paso, Texas"
+    },
+    "domain": "general",
+    "id": "Q104861036",
+    "labels": {
+      "en": "The Hill of James Magee"
+    },
+    "properties": {
+      "coordinates": "Point(-105.460312 31.767328)"
+    },
+    "type": "place"
+  }
+}

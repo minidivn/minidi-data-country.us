@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7011513",
+      "title": "WikiData Q-item: Q7011513",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7011513"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "village in Massachusetts, United States"
+    },
+    "descriptions": {
+      "en": "village in Massachusetts, United States"
+    },
+    "domain": "general",
+    "id": "Q7011513",
+    "labels": {
+      "en": "New Silver Beach"
+    },
+    "properties": {
+      "coordinates": "Point(-70.640469444 41.640772222)"
+    },
+    "type": "place"
+  }
+}

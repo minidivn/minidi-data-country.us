@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q826520",
+      "title": "WikiData Q-item: Q826520",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q826520"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "museum of history and science in Hawaii, United States"
+    },
+    "descriptions": {
+      "en": "museum of history and science in Hawaii, United States"
+    },
+    "domain": "general",
+    "id": "Q826520",
+    "labels": {
+      "en": "Q826520"
+    },
+    "properties": {
+      "coordinates": "Point(-157.870617 21.333333)"
+    },
+    "type": "place"
+  }
+}

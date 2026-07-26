@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3310422",
+      "title": "WikiData Q-item: Q3310422",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3310422"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "defunct baseball team in New York"
+    },
+    "descriptions": {
+      "en": "defunct baseball team in New York"
+    },
+    "domain": "general",
+    "id": "Q3310422",
+    "labels": {
+      "en": "Excelsior of Brooklyn"
+    },
+    "properties": {},
+    "type": "place"
+  }
+}

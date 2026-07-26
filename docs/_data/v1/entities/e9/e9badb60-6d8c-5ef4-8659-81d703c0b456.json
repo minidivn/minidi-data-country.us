@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q15111693",
+      "title": "WikiData Q-item: Q15111693",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q15111693"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Tappen, N.D."
+    },
+    "descriptions": {
+      "en": "Tappen, N.D."
+    },
+    "domain": "general",
+    "id": "Q15111693",
+    "labels": {
+      "en": "Glueckstal Lutheran Church"
+    },
+    "properties": {
+      "coordinates": "Point(-99.681047 46.683562)"
+    },
+    "type": "place"
+  }
+}

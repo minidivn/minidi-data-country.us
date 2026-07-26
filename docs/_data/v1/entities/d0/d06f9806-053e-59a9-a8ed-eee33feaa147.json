@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T19:06:34.480688200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T19:06:34.480688200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4548939",
+      "title": "WikiData Q-item: Q4548939",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4548939"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1811-1813 meeting of U.S. legislature"
+    },
+    "descriptions": {
+      "en": "1811-1813 meeting of U.S. legislature"
+    },
+    "domain": "general",
+    "id": "Q4548939",
+    "labels": {
+      "en": "12th United States Congress"
+    },
+    "properties": {
+      "end_time": "1813-03-04T00:00:00Z",
+      "start_time": "1811-03-04T00:00:00Z"
+    },
+    "type": "event"
+  }
+}
