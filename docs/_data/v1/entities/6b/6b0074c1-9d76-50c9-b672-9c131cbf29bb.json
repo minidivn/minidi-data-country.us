@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-27T16:23:02.222677900+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-27T16:23:02.222677900+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q207",
+      "title": "WikiData Q-item: Q207",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q207"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "George Walker Bush (born July 6, 1946) is an American former politician, businessman, and former United States Air Force officer who was the 43rd president of the United States, serving from 2001 to 2009. A member of the Republican Party, he served as the governor of Texas from 1995 to 2000. He is the eldest son of George H. W. Bush, the 41st president of the United States. Born into the prominent Bush family in New Haven, Connecticut, Bush flew warplanes in the Texas Air National Guard in his twenties. After graduating from Harvard Business School in 1975, he worked in the oil industry. He later co-owned the Major League Baseball team Texas Rangers before being elected governor of Texas in 1994. As governor, Bush successfully sponsored legislation for tort reform, increased education funding, set higher standards for schools, and reformed the criminal justice system."
+    },
+    "descriptions": {
+      "en": "President of the United States from 2001 to 2009"
+    },
+    "domain": "general",
+    "id": "Q207",
+    "labels": {
+      "en": "George W. Bush"
+    },
+    "properties": {
+      "birth_date": "1946-07-06T00:00:00Z",
+      "occupation": "politician",
+      "summary": "George Walker Bush (born July 6, 1946) is an American former politician, businessman, and former United States Air Force officer who was the 43rd president of the United States, serving from 2001 to 2009. A member of the Republican Party, he served as the governor of Texas from 1995 to 2000. He is the eldest son of George H. W. Bush, the 41st president of the United States. Born into the prominent Bush family in New Haven, Connecticut, Bush flew warplanes in the Texas Air National Guard in his twenties. After graduating from Harvard Business School in 1975, he worked in the oil industry. He later co-owned the Major League Baseball team Texas Rangers before being elected governor of Texas in 1994. As governor, Bush successfully sponsored legislation for tort reform, increased education funding, set higher standards for schools, and reformed the criminal justice system."
+    },
+    "type": "person"
+  }
+}

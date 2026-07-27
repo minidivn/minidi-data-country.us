@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-27T16:23:02.222677900+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-27T16:23:02.222677900+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q185",
+      "title": "WikiData Q-item: Q185",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q185"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Lawrence Mark Sanger (born July 16, 1968) is an American Internet project developer and philosopher who co-founded Wikipedia with Jimmy Wales. Sanger coined the name Wikipedia and provided initial drafts for many of its early guidelines, including the \"Neutral point of view\" and \"Ignore all rules\" policies. Prior to Wikipedia, he was the editor-in-chief of Nupedia, an online encyclopedia which was the predecessor of Wikipedia. He later worked on other encyclopedic projects, including the Encyclopedia of Earth, Citizendium, Everipedia, and Ballotpedia. Sanger's other interests include theology and philosophy such as epistemology, early modern philosophy, and ethics. He taught philosophy at Ohio State University. While in college, Sanger began using the Internet for educational purposes and joined the online encyclopedia Nupedia as editor-in-chief in 2000."
+    },
+    "descriptions": {
+      "en": "American former professor, co-founder of Wikipedia, founder of Citizendium and other projects (born 1968)"
+    },
+    "domain": "general",
+    "id": "Q185",
+    "labels": {
+      "en": "Q185"
+    },
+    "properties": {
+      "birth_date": "1968-07-16T00:00:00Z",
+      "occupation": "computer scientist",
+      "summary": "Lawrence Mark Sanger (born July 16, 1968) is an American Internet project developer and philosopher who co-founded Wikipedia with Jimmy Wales. Sanger coined the name Wikipedia and provided initial drafts for many of its early guidelines, including the \"Neutral point of view\" and \"Ignore all rules\" policies. Prior to Wikipedia, he was the editor-in-chief of Nupedia, an online encyclopedia which was the predecessor of Wikipedia. He later worked on other encyclopedic projects, including the Encyclopedia of Earth, Citizendium, Everipedia, and Ballotpedia. Sanger's other interests include theology and philosophy such as epistemology, early modern philosophy, and ethics. He taught philosophy at Ohio State University. While in college, Sanger began using the Internet for educational purposes and joined the online encyclopedia Nupedia as editor-in-chief in 2000."
+    },
+    "type": "person"
+  }
+}

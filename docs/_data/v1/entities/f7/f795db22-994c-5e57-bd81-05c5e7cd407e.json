@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-27T16:23:02.222677900+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-27T16:23:02.222677900+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q186",
+      "title": "WikiData Q-item: Q186",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q186"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Kenneth Wayne Jennings III (born May 23, 1974) is an American game show host and author who has hosted the syndicated quiz show Jeopardy! since 2021. He is best known for his success and streak as a contestant on the program: in 2004, he won 74 consecutive games, the longest streak in the show's history, and became the highest-earning American game show contestant up to that time. Before appearing on Jeopardy!, Jennings worked as a software engineer. Afterward, Jennings pursued a career as an author, writing about his experience and exploring American trivia history and culture in a series of best-selling books. He also appeared on other game shows, including The Chase (where he was nicknamed \"The Professor\"), and hosted the Omnibus podcast from 2017 to 2025. Jennings returned to Jeopardy! in 2020 as a producer, and later guest-hosted the program after the death of host Alex Trebek that year."
+    },
+    "descriptions": {
+      "en": "American game show contestant, host, and writer"
+    },
+    "domain": "general",
+    "id": "Q186",
+    "labels": {
+      "en": "Ken Jennings"
+    },
+    "properties": {
+      "birth_date": "1974-05-23T00:00:00Z",
+      "occupation": "game show host",
+      "summary": "Kenneth Wayne Jennings III (born May 23, 1974) is an American game show host and author who has hosted the syndicated quiz show Jeopardy! since 2021. He is best known for his success and streak as a contestant on the program: in 2004, he won 74 consecutive games, the longest streak in the show's history, and became the highest-earning American game show contestant up to that time. Before appearing on Jeopardy!, Jennings worked as a software engineer. Afterward, Jennings pursued a career as an author, writing about his experience and exploring American trivia history and culture in a series of best-selling books. He also appeared on other game shows, including The Chase (where he was nicknamed \"The Professor\"), and hosted the Omnibus podcast from 2017 to 2025. Jennings returned to Jeopardy! in 2020 as a producer, and later guest-hosted the program after the death of host Alex Trebek that year."
+    },
+    "type": "person"
+  }
+}

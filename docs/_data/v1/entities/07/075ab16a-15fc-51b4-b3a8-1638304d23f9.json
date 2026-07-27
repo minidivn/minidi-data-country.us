@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-27T16:23:02.222677900+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-27T16:23:02.222677900+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q400",
+      "title": "WikiData Q-item: Q400",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q400"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Jenna Marie Massoli (born April 9, 1974), known professionally as Jenna Jameson, is an American businesswoman, writer, television personality, and former pornographic film actress. She has been named the world's most famous adult entertainment performer and \"The Queen of Porn\". Jameson started acting in erotic videos in 1993 after having worked as a stripper and glamour model. By 1996, she had won the \"Top Newcomer\" award from each of the three major adult movie organizations. She has since won more than 35 adult-video awards, and has been inducted into the X-Rated Critics Organization (XRCO) and Adult Video News (AVN) Halls of Fame. Jameson founded the adult-entertainment company ClubJenna in 2000 with Jay Grdina, whom she later married and divorced. Initially, a single website, this business expanded into managing similar websites of other stars and began producing sexually explicit videos in 2001."
+    },
+    "descriptions": {
+      "en": "American pornographic actress"
+    },
+    "domain": "general",
+    "id": "Q400",
+    "labels": {
+      "en": "Jenna Jameson"
+    },
+    "properties": {
+      "birth_date": "1974-04-09T00:00:00Z",
+      "occupation": "actor",
+      "summary": "Jenna Marie Massoli (born April 9, 1974), known professionally as Jenna Jameson, is an American businesswoman, writer, television personality, and former pornographic film actress. She has been named the world's most famous adult entertainment performer and \"The Queen of Porn\". Jameson started acting in erotic videos in 1993 after having worked as a stripper and glamour model. By 1996, she had won the \"Top Newcomer\" award from each of the three major adult movie organizations. She has since won more than 35 adult-video awards, and has been inducted into the X-Rated Critics Organization (XRCO) and Adult Video News (AVN) Halls of Fame. Jameson founded the adult-entertainment company ClubJenna in 2000 with Jay Grdina, whom she later married and divorced. Initially, a single website, this business expanded into managing similar websites of other stars and began producing sexually explicit videos in 2001."
+    },
+    "type": "person"
+  }
+}

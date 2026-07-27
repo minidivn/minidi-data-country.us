@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-27T16:23:02.222677900+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-27T16:23:02.222677900+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q82425",
+      "title": "WikiData Q-item: Q82425",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q82425"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "triumphal arch in Berlin, Germany"
+    },
+    "descriptions": {
+      "en": "triumphal arch in Berlin, Germany"
+    },
+    "domain": "general",
+    "id": "Q82425",
+    "labels": {
+      "en": "Brandenburg Gate"
+    },
+    "properties": {},
+    "type": "person"
+  }
+}

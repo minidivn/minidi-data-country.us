@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-27T16:23:02.222677900+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-27T16:23:02.222677900+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q181",
+      "title": "WikiData Q-item: Q181",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q181"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Jimmy Donal Wales (born August 8, 1966) is an American and British internet entrepreneur and former financial trader. He is best known for co-founding Wikipedia, a nonprofit free encyclopedia, and Fandom (formerly Wikia), a for-profit wiki hosting service. He has also worked on Bomis, Nupedia, WikiTribune, and Trust Café (formerly WT Social). Born in Huntsville, Alabama, Wales attended Randolph School and earned finance degrees from Auburn University and the University of Alabama. He worked as a financial options trader in Chicago during the 1990s before shifting his focus to the internet economy. While in graduate school, he was teaching at two universities, but left before completing a PhD to work in finance, later becoming chief research officer at Chicago Options Associates. In 1996, Wales co-founded Bomis, which funded the free peer-reviewed encyclopedia Nupedia (2000–2003). On January 15, 2001, with Larry Sanger and others, he launched Wikipedia, which grew rapidly."
+    },
+    "descriptions": {
+      "en": "co-founder of Wikipedia (born 1966)"
+    },
+    "domain": "general",
+    "id": "Q181",
+    "labels": {
+      "en": "Jimmy Wales"
+    },
+    "properties": {
+      "birth_date": "1966-08-07T00:00:00Z",
+      "occupation": "merchant",
+      "summary": "Jimmy Donal Wales (born August 8, 1966) is an American and British internet entrepreneur and former financial trader. He is best known for co-founding Wikipedia, a nonprofit free encyclopedia, and Fandom (formerly Wikia), a for-profit wiki hosting service. He has also worked on Bomis, Nupedia, WikiTribune, and Trust Café (formerly WT Social). Born in Huntsville, Alabama, Wales attended Randolph School and earned finance degrees from Auburn University and the University of Alabama. He worked as a financial options trader in Chicago during the 1990s before shifting his focus to the internet economy. While in graduate school, he was teaching at two universities, but left before completing a PhD to work in finance, later becoming chief research officer at Chicago Options Associates. In 1996, Wales co-founded Bomis, which funded the free peer-reviewed encyclopedia Nupedia (2000–2003). On January 15, 2001, with Larry Sanger and others, he launched Wikipedia, which grew rapidly."
+    },
+    "type": "person"
+  }
+}

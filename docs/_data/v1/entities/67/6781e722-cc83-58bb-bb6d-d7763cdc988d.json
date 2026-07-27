@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-27T16:23:02.222677900+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-27T16:23:02.222677900+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q407",
+      "title": "WikiData Q-item: Q407",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q407"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Linda Lovelace (born Linda Susan Boreman; January 10, 1949 – April 22, 2002) was an American actress who became famous for her performance in the 1972 hardcore film Deep Throat. She later spoke out about the fact that her abusive husband, Chuck Traynor, had threatened and coerced her into participation, saying that \"if you watch the movie, you are watching me get raped.\" In her autobiography Ordeal, she described what took place behind the scenes. She later became a born-again Christian and a spokeswoman for the anti-pornography movement."
+    },
+    "descriptions": {
+      "en": "American pornographic actress (1949-2002)"
+    },
+    "domain": "general",
+    "id": "Q407",
+    "labels": {
+      "en": "Linda Lovelace"
+    },
+    "properties": {
+      "birth_date": "1949-01-10T00:00:00Z",
+      "death_date": "2002-04-22T00:00:00Z",
+      "occupation": "women's rights activist",
+      "summary": "Linda Lovelace (born Linda Susan Boreman; January 10, 1949 – April 22, 2002) was an American actress who became famous for her performance in the 1972 hardcore film Deep Throat. She later spoke out about the fact that her abusive husband, Chuck Traynor, had threatened and coerced her into participation, saying that \"if you watch the movie, you are watching me get raped.\" In her autobiography Ordeal, she described what took place behind the scenes. She later became a born-again Christian and a spokeswoman for the anti-pornography movement."
+    },
+    "type": "person"
+  }
+}

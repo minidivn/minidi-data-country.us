@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-27T16:23:02.222677900+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-27T16:23:02.222677900+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q23",
+      "title": "WikiData Q-item: Q23",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q23"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "George Washington (February 22, 1732 [O.S. February 11, 1731] – December 14, 1799) was a Founding Father and the first president of the United States, serving from 1789 to 1797. As commander of the Continental Army, Washington led Patriot forces to victory in the American Revolutionary War against the British Empire. He is commonly known as the Father of His Country for his role in bringing about American independence. Born in the Colony of Virginia, Washington became the commander of the Virginia Regiment during the French and Indian War from 1754 to 1763. He was later elected to the Virginia House of Burgesses, and opposed the perceived oppression of the American colonists by the British Crown. When the American Revolutionary War against the British began in 1775, Washington was appointed commander-in-chief of the Continental Army. He directed a poorly organized and equipped force against disciplined British troops."
+    },
+    "descriptions": {
+      "en": "Founding Father and first U.S. president (1732–1799)"
+    },
+    "domain": "general",
+    "id": "Q23",
+    "labels": {
+      "en": "George Washington"
+    },
+    "properties": {
+      "birth_date": "1732-02-22T00:00:00Z",
+      "death_date": "1799-12-14T00:00:00Z",
+      "occupation": "politician",
+      "summary": "George Washington (February 22, 1732 [O.S. February 11, 1731] – December 14, 1799) was a Founding Father and the first president of the United States, serving from 1789 to 1797. As commander of the Continental Army, Washington led Patriot forces to victory in the American Revolutionary War against the British Empire. He is commonly known as the Father of His Country for his role in bringing about American independence. Born in the Colony of Virginia, Washington became the commander of the Virginia Regiment during the French and Indian War from 1754 to 1763. He was later elected to the Virginia House of Burgesses, and opposed the perceived oppression of the American colonists by the British Crown. When the American Revolutionary War against the British began in 1775, Washington was appointed commander-in-chief of the Continental Army. He directed a poorly organized and equipped force against disciplined British troops."
+    },
+    "type": "person"
+  }
+}

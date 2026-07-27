@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-27T16:23:02.222677900+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.us",
+    "trust_tier": 5,
+    "updated_at": "2026-07-27T16:23:02.222677900+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q303",
+      "title": "WikiData Q-item: Q303",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q303"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Elvis Aaron Presley (January 8, 1935 – August 16, 1977) was an American singer and actor. Referred to as the \"King of Rock and Roll\", he is widely regarded as one of the most culturally significant figures of the 20th century. Presley's energetic and sexually provocative performance style, combined with a mixture of influences across color lines during a transformative era in race relations, brought both great success and initial controversy. Presley was born in Tupelo, Mississippi; his family moved to Memphis, Tennessee, when he was 13. He began his music career in 1954 at Sun Records with the producer Sam Phillips, who wanted to bring the sound of African-American music to a wider audience. Presley, on guitar and accompanied by the guitarist Scotty Moore on lead and the bassist Bill Black, was a pioneer of rockabilly, an uptempo, backbeat-driven fusion of country music and rhythm and blues."
+    },
+    "descriptions": {
+      "en": "American singer and actor (1935–1977)"
+    },
+    "domain": "general",
+    "id": "Q303",
+    "labels": {
+      "en": "Elvis Presley"
+    },
+    "properties": {
+      "birth_date": "1935-01-08T00:00:00Z",
+      "death_date": "1977-08-16T00:00:00Z",
+      "occupation": "singer",
+      "summary": "Elvis Aaron Presley (January 8, 1935 – August 16, 1977) was an American singer and actor. Referred to as the \"King of Rock and Roll\", he is widely regarded as one of the most culturally significant figures of the 20th century. Presley's energetic and sexually provocative performance style, combined with a mixture of influences across color lines during a transformative era in race relations, brought both great success and initial controversy. Presley was born in Tupelo, Mississippi; his family moved to Memphis, Tennessee, when he was 13. He began his music career in 1954 at Sun Records with the producer Sam Phillips, who wanted to bring the sound of African-American music to a wider audience. Presley, on guitar and accompanied by the guitarist Scotty Moore on lead and the bassist Bill Black, was a pioneer of rockabilly, an uptempo, backbeat-driven fusion of country music and rhythm and blues."
+    },
+    "type": "person"
+  }
+}
